@@ -1,0 +1,5802 @@
+[
+ {
+   "Pergunta": "Procedimentos Realizados:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Foto Procedimento:",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Observações:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Assinatura",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Abrir OS no Aplicativo com data de Retorno",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Abrir OS no Aplicativo com data Retorno",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Ácido",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Ações Aplicadas",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Ações Sugeridas",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Acompanhar ordenha durante 15 minutos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Adubação área com Penergetic",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Adubação área Testemunha",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Aferição do fluxo de ar nas entradas de ar passivas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Aferição do fluxo de ar nas entradas de ar passivas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Aguardando resposta?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Agua Reservatório Limpador Para-brisa",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Ajustar aperto de parafusos de fixação - torque até 26-27Nm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Alcalino",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Numero de animais flambados",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Aplicação do Pós Dipping",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Aplicação do Pós Dipping",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Aplicação imediata após a extração",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Aplicar 26-27Nm e cola Super Bonder em porcas frouxas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Área",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Área de Penergetic",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Assinatura do responsável",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Cliente",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Cliente",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Cliente",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura do Cliente",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Usuário",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Usuário",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Usuário",
+   "TIPO": "Campo Assinatura"
+ },
+ {
+   "Pergunta": "Assunto",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "TIPO": "Campo Sim/Não"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "TIPO": "Campo Sim/Não"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "TIPO": "Campo Sim/Não"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "TIPO": "Campo Sim/Não"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "TIPO": "Campo Sim/Não"
+ },
+ {
+   "Pergunta": "Atividade Peças",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Automação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Automação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Avaliação Item",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Avaliação Visual",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar a condição de limpeza do equipamento (coletores, unidade final",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar a condição de limpeza do equipamento (coletores, unidade final, etc)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar a condição de limpeza do equipamento (coletores, unidade final, etc)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar desgaste da parte frontal do MPC - substituir se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar desgaste da parte frontal do MPC - substituir se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar desgaste da parte frontal do MPC - substituir se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Avaliar funcionamento das unidades",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Bezerras - PRODUTOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DOSADORA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA DOSADORA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BOMBA VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BRAÇO ROBÓTICO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "BRAÇO ROBÓTICO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Buzina / Cinto de Segurança",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "CABINE INTERNA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "CADPRO",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Calf Feeder",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "CALF FEEDER",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Calibrar medidor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "CÂMERA E GARRA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "CÂMERA E GARRA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Capacidade do Tanque:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "CEP",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "CHAMPION",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Champion - PRODUTO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "CHAMPION - Produto",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Checagem de depósitos de resíduos na unidade final",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de depósitos de resíduos na unidade final",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de desgaste na corda de sustentação das velas e borracha de absorção de impactos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de desgaste na corda de sustentação das velas e borracha de absorção de impactos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de válvulas de dreno, dreno automático do compressor de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de válvulas de dreno, dreno automático do compressor de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de vazamentos e desgaste nos tubos hidráulicos.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem de vazamentos e desgaste nos tubos hidráulicos.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem geral do processador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem geral do processador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checagem geral do processador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar calibração do sensor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar calibração do sensor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar calibração do sensor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar conexões de cabos e repor graxa de silicone se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar interior do aerador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar interior do aerador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Checar peças de unidade final, válvula de drenagem e dispositvos de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Chiller",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Ciclo Limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "CICLO DE LIMPEZA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Cliente",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente",
+   "TIPO": ""
+ },
+ {
+   "Pergunta": "Cliente",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente comprou de outra marca",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente Comprou de Outra Marca",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente desistiu da compra",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente desistiu da compra",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cliente Presente?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Coletor",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Coletor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Coletor de Amostra",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "COLETOR DE AMOSTRA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "COLETORES",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Componente com defeito:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Componente com defeito:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Componente com defeito:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "COMPONENTES EXTRAÇÃO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "COMPONENTES EXTRAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Condições Gerais",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Confirma Tipo de Problema",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "CONFORTO ANIMAL",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Contagem finalizada no dia?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Contenção",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Correção",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Correção de parâmetros",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Cow Brush",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "CPF",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "CPF/CNPJ",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Cultura",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Data da Apresentação",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data da Retirada",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data do Fechamento",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Data estimada do faturamento",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Defeito apresentado pela peça:",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Defeito apresentado pela peça:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Defeito apresentado pela peça:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Defeito de fabricação",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Desconto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Descreva Ocorrência",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Descreva o motivo",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descreva Serviço Realizado",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrever Ações Tomadas",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrever Não Conformidade",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrever o que deve ser feito para concluir",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrever o serviço realizado e/ou peças utilizadas",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição Apresentação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição Atividade",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição das atividades",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição das atividades",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Descrição Problema",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Desgaste por tempo de uso",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Desgaste por tempo de uso",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "TIPO": ""
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar todas as peças",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar todas as peças",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmontar e limpar todas as peças",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmonte e limpe, lubrifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Desmonte e limpe, lubrifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Detalhamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Detalhamento do problema encontrado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "DETERGENTES",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Detergentes - PRODUTO",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "DIANTEIRA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "DIANTEIRA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "DIPPINGS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Dippings - PRODUTOS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "DISPOSITIVO DE LIMPEZA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "DISPOSITIVO DE LIMPEZA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Documentação do Veículo",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Dosagem:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Dosagem dos Químicos - Ácido",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Dosagem dos Químicos - Alcalino",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "DOSAGENS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Dosagens - Ácido",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Dosagens - Alcalino",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Dosagens - Ciclo de Limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Dosagens - Injetor de Ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Dosagens - Sanitizante",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Dosagens - Turbulência",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "DT",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Duplo Pré",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Elimine os rolamentos laterais da unidade (apenas válidos para modelos mais antigos)",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Elimine os rolamentos laterais da unidade (apenas válidos para modelos mais antigos)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Elimine os rolamentos laterais da unidade (válido para modelos mais antigos)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "E-mail",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Endereço",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "ENTRADA DE ALEITE",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "ENTRADAS DE LEITE",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "ENTRADAS DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Entrega efetivada?",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "EQUIPAMENTOS DE ORDENHA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "ESCRAVO DO REGULADOR",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Especificação do Óleo:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Espelho Retrovisor e Vidro da porta - Quebra",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Espelho Retrovisor e Vidro da porta - Quebra",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Espuma",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Estenda completamente as hastes do pistão e limpe com um pano seco",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "ESTRADAS UNIDADE FINAL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Execute um ciclo de limpeza de teste",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Execute um ciclo de limpeza de teste",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Execute um ciclo de limpeza de teste",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Extintor de incêndio",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Extração Automática",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Faltaram peças?",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Faltaram Peças",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "FALTARAM PEÇAS?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Fazer back-up de memória",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Fazer back-up de memória",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Fazer back-up de memória",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Forma de Pagamento",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto da Não Conformidade",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto do Equipamento / Peça",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto Item Não Conforme",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto Peça",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto Peças",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Foto Preventiva",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Fotos da Flambagem",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Fotos",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Fotos Gerais",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Fotos Gerais",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Funcionamento dos vidros e maçanetas internas",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Garantia Nutrição",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Garantia Rotatória",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Garantia Tanque",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Garantia Tubos e Teteiras",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Garantia VMS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Quantidade de gás utilizado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Hora da Retirada",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Hora Fim",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Hora Fim",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Hora Início",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Hora Início",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Horário chegada",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Horário de Saída",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Hora Trabalhada",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Imersão",
+   "TIPO": "Campo Hora"
+ },
+ {
+   "Pergunta": "Informar o número do Pedido da Delaval",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Informe a Peça",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "INÍCIO - VEÍCULO DESLIGADO",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "INJETOR DE AR",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "INJETOR DE AR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "INJETOR DE AR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção da Magazine de teteiras",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Inspeção da Magazine de teteiras",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Inspeção da placa de proteção, vidro da câmera e lasers",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção da placa de proteção, vidro da câmera e lasers",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção da placa traseira",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção da placa traseira",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção da placa traseira",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção das linhas de ar comprimido e filtros reguladores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção das linhas de ar comprimido e filtros reguladores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do bloco de válvulas no bloco de controle",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do bloco de válvulas no bloco de controle",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do braço inferior",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do braço inferior",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do filtro de óleo e checagem de vazamentos no sistema hidráulico",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do filtro de óleo e checagem de vazamentos no sistema hidráulico",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do limpador de pisos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do limpador de pisos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do mecanismo de parada e o atuador de rotação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do mecanismo de parada e o atuador de rotação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos cilindros de extração e suas cordas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos cilindros de extração e suas cordas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos encoders",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos encoders",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do sistema de limpeza da câmera",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do sistema de limpeza da câmera",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na prateleira magazine",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na prateleira magazine",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na unidade final",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na unidade final",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos e limpeza da válvula de não retorno",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos e limpeza da válvula de não retorno",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do VMS e portões de seleção",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção do VMS e portões de seleção",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da garra",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da garra",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da teteira de limpeza e troca do colar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da teteira de limpeza e troca do colar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza do tubo da teteira de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza do tubo da teteira de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção visual na válvula de leite do tanque",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspeção visual na válvula de leite do tanque",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar cilindros de suspensão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar cilindros de suspensão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar e limpar a grade de ventilação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar e limpar a grade de ventilação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar e limpar a grade de ventilação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar entradas de leite",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar escovas, molas e trilhos do swivel",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar esferas de borracha no Y das válvulas (caso tenha injetor de ar)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar e testar o equipamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar e testar o equipamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar e testar parâmetros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar indicador de fluxo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar nós mostrados no display",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar nós mostrados no display",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar nós mostrados no display",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar os rolamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar tensão e desgaste dos cabos da contenção",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar tensão e desgaste dos cabos da contenção",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar válvula",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar válvula",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar vazamento em todas as conexões de vácuo/válvulas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar vazamento em todas as conexões de vácuo/válvulas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecionar vazamento em todas as conexões de vácuo/válvulas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione a bucha da corrente para um desgaste ou dano severo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione a corrente para torções",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione a montagem do motor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione a montagem do motor de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione a válvula silenciadora para bloquear ou danificar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione dentro da caixa do aquecedor se há cabos com corrosão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione dentro da caixa do aquecedor sinais de vazamento ou umidade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione dentro da caixa do aquecedor sinais de vazamento ou umidade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione o cilindro para uso excessivo ou dano",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione o gancho de pressão da garra por danos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione os cabos dentro da caixa do aquecedor para verificar se há corrosão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione o sensor de segurança",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione o sensor de segurança",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione todas as caixas de controle de ar. Verifique se há vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Inspecione todas as caixas de controle de ar. Verifique se há vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "INSTRUÇÃO VENDEDOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Instrumentos de medição do painel - Funcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Intenção ou Prospecção",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "ITENS DE SERVIÇOS OPCIONAIS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "ITENS DE SERVIÇOS OPCIONAIS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "KM",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Km da troca:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "KM Utilizado",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "LADO DIREITO",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "LADO ESQUERDO",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Lanternas / Faróis - Quebra das Lentes",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Lanternas traseira - Quebra de lentes",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Laticínio:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lavar com água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lave a bomba com água e detergente",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Lave a bomba com água e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lave a bomba com água e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpador de parabrisa",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpador e Vidro traseiro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar aspersor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar aspersor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar cada cilindro de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar cada cilindro de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar cada cilindro de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar drenagem automática e elemento filtrante",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar drenagem automática e elemento filtrante",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar e checar funcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar e inspecionar as peças do lubrificador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar e inspecionar as peças do lubrificador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar fotocélula com um pano úmido",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar fotocélula com um pano úmido",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar fotocélula com um pano úmido",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar o processador com um tecido umidificado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar o processador com um tecido umidificado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar o processador com um tecido umidificado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar reservatórios de detergentes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar reservatórios de detergentes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar swivel elétrico - limpar escovas e espaços com jato de ar limpo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvula de drenagem",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvula de drenagem",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpar ventoinha do motor elétrico",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe a linha de vácuo e o tanque",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe a linha de vácuo e o tanque",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe a linha de vácuo e o tanque",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe a linha e o tanque de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe as entradas de ar (se VSD instalado)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe as entradas de ar (se VSD instalado)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe as entradas de ar (se VSD instalado)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe a unidade final e aerador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe cada cilindro externamente com água quente e detergente (com a haste do pistão retraída)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e substitua vedações nas válvulas de 2-3 vias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe o filtro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe o filtro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe o filtro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe o filtro de ar, se incluído. Substitua se estiver danificado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpe os filtros de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LIMPEZA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza com escova",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza com escova",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Limpeza/Conservação do Equipamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza da boia",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza da gaveta da posição de stand-by da teteira de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza da gaveta da posição de stand-by da teteira de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LIMPEZA DA ORDENHADEIRA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza das vedações",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza da tampa",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Limpeza da unidade final",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza de Spray Ball",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza do aereador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza do destrutor de espuma",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza dos cotovelos de entrada",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza do tanque da teteira de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza do tanque da teteira de limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza do Teto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza e Adesivos da Lateral - Conservação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza e Adesivos da Lateral - Conservação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza e Conservação do bancos, tapetes e pedais",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Limpeza manual",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Linha de Leite",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Linha de Leite",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Linha de Transferência",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LINHA DE TRANSFERÊNCIA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LINHA DE TRANSFERÊNCIA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Linha Transferência",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "LINHA TRANSFERÊNCIA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Local do defeito:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar acadeia de trilhos e a corrente de transmissão (óleo automotivo SAE10)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar a corrente com uma mecha de óleo",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Lubrificar com óleo para pulsador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar eixos e conexões de portões",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar eixos e conexões de portões",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar eixos e conexões de portões",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o eixo do pistão com graxa de silicone",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o eixo do pistão com graxa de silicone",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o eixo do pistão com graxa de silicone",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anticorrosivo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar os rolamentos (NLGI # 2 graxa à base de lítio ou equiv.)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar os rolamentos (NLGI # 2 graxa à base de lítio ou equiv.)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar todas as dobradiças",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Lubrificar vedações e inserções de Nylon com lubrificante",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Luzes (Freio / Placa / Ré / Alerta / Faróis)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Macaco e Chave de roda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Maçaneta lado externo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Maçaneta lado externo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "MAGAZINE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "MAGAZINE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "MANEJO DE DEJETOS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Mangueiras",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "MANGUEIRAS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Manutenção do BCC/BVV",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Manutenção do BCC/BVV",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Marca",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Marca do Filtro:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Marca do Óleo:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Média da Produção de Leite",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "MEDIDOR DE LEITE",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "MEDIDORES DE LEITE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "MEDIDORES DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "MEDIDOR LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Medir pulsador",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Medir vácuo",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Ministrado Por",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Modelo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Modelo",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Modelo",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Modelo",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Modelo:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Modelo da unidade condensadora:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Modelo de Contenção",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Modelo do coletor:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Modelo do Tanque:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Modelo Equipamento:",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "MÓDULO DE LIMPEZA TETOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "MÓDULO DE LIMPEZA TETOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "MÓDULO DE ORDENHA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "MÓDULO DE ORDENHA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Motivo da venda não ser efetivada",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "MOTIVO DA VISITA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Motivo de faltar peças",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Motivo de Não Concluir",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Motivo de não ter concluído",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Motivo não finalizar",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Motivo Venda Não Efetivada",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Motivo Venda Não Realizada",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "MPC",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "MPC",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "MPC",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "MPC",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Município",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Necessita de Intervenção?",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Negociação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Nível Água do Radiador",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Nível de água do radiador:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Nível e qualidade do óleo do motor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Nível Óleo do Motor",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Nº de Conjunto de Ordenha",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Nº de conjuntos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Nº de estação",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº de estação",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº de lagoas de separação",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº de portões",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº  de scraper",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nome",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nome completo",
+   "TIPO": "Campo Fotografia"
+ },
+ {
+   "Pergunta": "Nome completo",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Nome Completo",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Nome Completo:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Nome da Propriedade",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Nota Fiscal",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número da Nota Fiscal:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Nota Fiscal",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "NÚMERO DA NF",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "NÚMERO DA NF DE DEVOLUÇÃO",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número da ordem de troca:",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número da Ordem de Abastecimento",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série do Tanque",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série da Rotatória",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série da Unidade Condensadora",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de Série do Produto:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série do Produto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série do Produto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série do Produto:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de Série do Produto:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série do produto/lote:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série do Produto/Lote",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de Série do Produto / Lote",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Série do Tanque:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série unidade condensadora:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de Série Unidade Condensadora:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Número de série unidade condensadora 2 (quando houver):",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Número de Vacas em Ordenha",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "NUTRIÇÃO ANIMAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Objetivo da Visita",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Observações sobre a realização da Flambagem",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observação",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações 2",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observações Gerais",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observar condição dos tubos curtos de pulsação, trocar se necessário",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Observar condição dos tubos curtos de pulsação, trocar se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar condição dos tubos curtos de pulsação, trocar se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar funcionamento da válvula de corte de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar funcionamento da válvula de corte de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar funcionamento da válvula de corte de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar nível de óleo no motor redutor (reabastecer se preciso)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar nível do lubrificador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar nível do lubrificador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar nível do lubrificador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar suportes da unidade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar suportes da unidade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observar vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observe se a válvula de dreno do tanque sanitário se move perfeitamente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observe se a válvula de dreno do tanque sanitário se move perfeitamente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Observe se a válvula de dreno do tanque sanitário se move perfeitamente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "O que deve ser feito para concluir?",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "ORDENHADEIRA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Número de ordenhas/dia:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "ORDENHADOR",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Ordenhador está usando EPI",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Ordenhas",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Outra Cultura",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Outra Forma Forma de Pagamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Outras Marcas",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Outro Posto",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Outro Posto:",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Outros",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Outro Serviço",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Papel toalha",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Parabrisa - trincas",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Para-choque",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Para choque / Grade Frontal - Quebra",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Pasteurizador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PEÇAS E TETEIRAS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Peças e Teteiras - PRODUTOS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Peças que faltaram",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Pedido fechado pelo proprietário",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Pedido fechado pelo proprietário",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Penergetic - PRODUTOS",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Perguntar ao funcionário se há problema no equipamento",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Placa dianteira - legível",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Placa traseira - legível",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Pneu",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Pneu de Socorro Calibrado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Pneu Dianteiro / Roda e Calota",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Pneu Dianteiro / Roda e Calota",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Pneu Traseiro / Roda e Calota",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Pneu Traseiro / Roda e Calota",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Ponta de teto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PONTO DE ORDENHA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PONTO DE ORDENHA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PORTÃO APROXIMAÇÃO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Portão de Aproximação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PORTÃO DE APROXIMAÇÃO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PORTÃO DE APROXIMAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PORTÃO DE APROXIMAÇÃO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Portão de Separação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Pós Ordenha",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PÓS ORDENHA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Posto",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Posto:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Prazo de Pagamento",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Prazo de Pagamento",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Pré Dipping",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Preparação dos Animais",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "PREPARAÇÃO DOS ANIMAIS - Limpeza do teto",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "PREPARAÇÃO DOS ANIMAIS - Pré Dipping",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PREPARAÇÃO DOS ANIMAIS - Secagem",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Pré-Placas",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Problema resolvido?",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Problema Resolvido?",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Problema solucionado?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Problema Solucionado",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PROCESSADOR DE DADOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PROCESSADOR DE DADOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PROCESSADOR DE DADOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Procure por vazamentos",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Procure por vazamentos",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Produção kg por há área com Penergetic",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Produção kg por há área Testemunha",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Produção de Leite - Litros/dia:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Produto de limpeza utilizado:",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Produto entregue na venda?",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Produto Entregue na Venda? ",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PRODUTO PENERGETIC",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PRODUTOS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Produtos BEZERRAS",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Programador de Limpeza",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Proteção de Carter",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "PULSADOR MASTER",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Quais peças",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Qual gerência?",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Quantidade de Litros",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Quantidade litros:",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Rádio / Antena (Quando houver)",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Reagendado Para",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Recebido pelo proprietário?",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Recebido Pelo Proprietário?",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Registra Não Conformidade para Manutenção?",
+   "TIPO": "Campo Data"
+ },
+ {
+   "Pergunta": "Registro de unidade final",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Rengraxar rolamentos (graxa de Lítio NLGI #2)",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Replace bottom seal of trap 91752901 Seal for trap VMS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Repor óleo em redutores do motor",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "RESFRIADOR A PRÉ PLACA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "RESFRIADOR A PRÉ-PLACA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "RESFRIADOR A PRÉ-PLACA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "RESFRIAMENTO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Ressecadas",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "RESULTADO",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Resultado Financeiro",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Retenção de resíduo",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Retornar Data",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Retrovisor",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Revestir as hastes do pistão com graxa de silicone (vac cilindros) ou graxa Magnalube-G (cilindros pneumáticos)",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "RG",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "RG/CPF",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "RG/CPF",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "RG/CPF",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Rotina de Ordenha",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "ROTINA DE ORDENHA",
+   "TIPO": "Campo Sim/Não"
+ },
+ {
+   "Pergunta": "Sala de Ordenha",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SALA DE ORDENHA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Sanitizante",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Dosagem dos Químicos - Sanitizante",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SCRAPER",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Scrapper",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Iniciar Relatório de Entrada na Empresa",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Selecionar Seu Nome:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Selecionar Colega 01:",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Selecionar Colega 02",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Selecionar Colega 03:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Observação (se houver):",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Secagem",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Se incluída - drenar a água do tanque do compressor de ar",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Se incluído - verifique o compressor de ar de acordo com a documentação do fabricante",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Sem furos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Se o problema foi resolvido parcialmente abrir OS pelo aplicativo programando retorno no cliente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "SERVIÇO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Serviço Concluído?",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Serviço de HerdNavigator",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Serviço de HerdNavigator",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Serviço do coletor de amostra",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Serviço do coletor de amostra",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Serviço do contador de células somáticas OCC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Serviço do contador de células somáticas OCC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Serviço Steam Back Flush",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Serviço Steam Back Flush",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SILAGEM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Silagem - PRODUTOS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "SISTEMA DE DEJETOS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Sistema de Limpeza",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA DE LIMPEZA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "SISTEMA DE LIMPEZA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA DE LUBRIFICAÇÃO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Sistema de Vácuo",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Sistema de Vácuo",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA HIDRÁULICO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SISTEMA HIDRÁULICO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SISTEMA LIMPEZA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SISTEMA LUBRIFICAÇÃO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SISTEMA PNEUMÁTICO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SISTEMA PNEUMÁTICO",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SISTEMA VMS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "SISTEMA VMS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Situação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Situação da Negociação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Situação da Venda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Situação da Venda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Situação Negociação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Software de Gerenciamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "SOFTWARE GERENCIAMENTO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "SOFTWARE GERENCIAMENTO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Solução Nível Água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Solução para o nível de óleo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Somente papel",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Somente produto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Spray",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "STALLING",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a corda de extração",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a junta da tampa do receptor 830934509 Vedação p / aerador UF Breezway",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua as juntas 830934509 Vedação p / aerador UF Breezway",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua as juntas da válvula de retenção 94549401 Seal kit f. 94176101 NON RETURN VALVE 51",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a tela 830646006 visor p / válv. injetar. ar PR3100",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação ACR 98346101 ACR SEAL PISTON",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação dupla do pré placa, 86305401 junta BM duplo BFR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação dupla do pré placa, 86305401 junta BM duplo BFR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação exterior 99583701 VEDAÇÃO DA TAMPA AERADOR MV-75",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação externa - VEDAÇÃO DA TAMPA AERADOR MV-75",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação inferior  91752901 Vedação para o VMS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua a vedação inferior 91752901 Vedação para o VMS.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua o anel-O do filtro 831132271 O-RING,FILTER L17&F17 #2306-53 -",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua o Kit 830835981 TAMPAS TRANSPARENTES MC73",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua o óleo no redutor do motor de ar  (Mobil SHC 626 or Chevron RPM Synthetic Gear Lube 75W-90)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua o óleo no redutor do motor de ar (Mobil SHC 626 or Chevron RPM Synthetic Gear Lube 75W-90)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua O-ring do filtro 831132271 O-RING,FILTER L17&F17 #2306-53",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua o tampão do pré-placa 86305101 junta BM simples BFR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substitua o tampão do pré-placa 86305101 junta BM simples BFR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir anel de carvão 99543801 ANEL DE CARVÃO FMP 55 SINGLE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir anel de carvão 99543801 ANEL DE CARVÃO FMP 55 SINGLE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir anel de carvão 99683601 ANEL DE CARVÃO FMP 110 SINGLE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir bola de borracha 95618901 ESFERA PE - 1800",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir correia 6464700 CORREIA A 55 P/ VP 77",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir diafragma 85850902 Membrane RS-valve",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir filtro 89534901 Filter 5 #m",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir filtro 89534901 Filter 5 #m",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir junta dupla 86305401 BM gasket double BFR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir junta única 86305101 BM gasket single BFR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir luva de borracha 98966601 LUVA DE BORRACHA C/ FURO C200",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir mangueiras da bomba dosadora 834151702 Peristaltic tube w connector C425",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir mangueiras da bomba dosadora 98724406 TUBO P/ BOMBA DOSADORA P/ DETERGENTE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 84983945 KIT SERVICO BVP700/900 / VP76 8000hr",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 85132601 Kit serviço 2000hr p/ amostrador - MM27",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 85132601 Kit serviço 2000hr p/ amostrador - MM27",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 86307331 Service kit FMP55 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 86307331 Service kit FMP55 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 86307331 Service kit FMP55 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 86307431 Service kit FMP110 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 86606031 Service kit MU350, MU450, 4,000 hours",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 87840330 Kit serviço LVP3000 4000hrs",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 87840330 Kit serviço LVP3000 4000hrs",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 87840331 Kit serviço 4000h LVP4500",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 90621383 TF350 service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 90621383 TF350 service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 91346308 GAXETA UNIÃO TC 101,6MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 91724903 TUBO LEITE SILICONE AZUL 22/36 L=65mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 91724903 TUBO LEITE SILICONE AZUL 22/36 L=65 mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 94558031 Kit Serviço p/ bomba FMP-220 2000hr",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 98484601 GAXETA 76 MM P/ U.F. SR/LPR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 98484603 Entrada 51mm/79 P/ U.F. GR50/SR/LPR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 98508501 Hygienius gasket f 2/3 valve",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 98508501 Hygienius gasket f 2/3 valve",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peça 98508501 Hygienius gasket f 2/3 valve",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186644080 GASKET, FLANGE 3´´ RUB",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186645043 VEDAÇÃO INFERIOR GROSSA TAMPA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186645043 VEDAÇÃO INFERIOR GROSSA TAMPA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186645239 JUNTA UNIÃO DANESA 2.1/2\"",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186645239 JUNTA UNIÃO DANESA 2.1/2\"",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186646147 COTOVELO DE BORRACHA 3",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186648742 REDUÇÃO DE BORRACHA 52/76MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186649904 COTOVELO DE BORRACHA 51 x 51 FMP110",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 186649905 CURVA BORRACHA 51 - 32MM FMP55",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 22512203 V-BELT VB A39 13*1030",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 830869280 Kit de vedações 2000hrs swivel PR3100",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 86304001 BM ring gasket for frame/plate",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 86304001 BM ring gasket for frame/plate",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 86304001 BM ring gasket for frame/plate",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 87376280 CIP Seal - 4 pc",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 90577108 gasket 114/101,6 mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 90995280 KIT VEDAÇÃO VELA TETEIRA TIPO M 4PÇ",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346306 Vedação União TC 63mm PR3100",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346307 GAXETA UNIÃO TC 75MM (3\")",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346308 GAXETA UNIÃO TC 101,6MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91346308 GAXETA UNIÃO TC 101,6MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91400501 Vedação p/ unidade final  SR100HC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91470502 Gaxeta de vedação 2000hr - MM25/27BC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91470502 Gaxeta de vedação 2000hr - MM25/27BC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91470502 Gaxeta de vedação 2000hr - MM25/27BC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91700701 VEDAÇÃO UNIÃO INOX 50 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 92724880 ESFERA AERADOR UNIDADE FINAL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 95993901 GASKET VPU 74/76",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 96750680 KIT DE PEÇAS PARA LUBRIFICADOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 96750680 KIT DE PEÇAS PARA LUBRIFICADOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 96780701 Tube bend 16/11 mm EP",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 96817602 REDUÇÃO DE BORRACHA 50 - 40 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 96817602 REDUÇÃO DE BORRACHA 50 - 40 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 96817602 REDUÇÃO DE BORRACHA 50 - 40 MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98317101 TUBO CURVO EM BORRACHA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98317101 TUBO CURVO EM BORRACHA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98317101 TUBO CURVO EM BORRACHA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98788201 DeLaval milk tube reinforced rubb 40/60",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98788201 DeLaval milk tube reinforced rubb 40/60",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98884401 LUVA CONEXÃO 51/51 SR100",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98884601 REDUÇÃO DE BORRACHA 50/25mm",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 98908301 LUVA DE BORRACHA P/ UNIÃO  51MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 99833280 VÁLVULA COLETOR LEITE TF350/TF360/HCC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças 99833280 VÁLVULA COLETOR LEITE TF350/TF360/HCC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças do amostrador de leite 85608102 KIT DO TUBO DO AMOSTRADOR DE LEITE MM27",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças do amostrador de leite 85608102 KIT DO TUBO DO AMOSTRADOR DE LEITE MM27",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 830835980 KIT DE SERVIÇOS MC73",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 830835980 KIT DE SERVIÇOS MC73",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 85290430 Kit Serviço 2000hr Pulsador HP101/102",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 86950830 KIT SERVIÇO 4000HR PARA PULSEBOY RP30",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87689130 Kit 4000hr p/ ATM/ATM s/ baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87689130 Kit 4000hr p/ ATM/ATM s/ baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved.tampa)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 88247030 Service kit RP30 8000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923580 Espuma Flt. 2000h P/ Reg. MVRM Antigo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923580 Espuma Flt. 2000h P/ Reg. MVRM Antigo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923643 KIT SERVIÇO 4000HR REG. MVR-S (MOD NOVO)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923644 MVR-M Service kit 4000H",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99902530 Service Kit Drain Valve 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99902530 Service Kit Drain Valve 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99902530 Service Kit Drain Valve 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças usando Kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir peças utilizando kit de serviço 92731730 Kit serviço coletor MC9 c/ válvula 4000h",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir placa da válvula 99986501 PLACA DA VÁLVULA PULSADOR ELETRÔNICO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 91086801 PLUG 38 MM P/ SENSOR DE NÍVEL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 91086801 PLUG 38 MM P/ SENSOR DE NÍVEL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 91086801 PLUG 38 MM P/ SENSOR DE NÍVEL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 98884880 PLUG DA BÓIA SR 70/100",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 186648427 TAMPÃO DE BORRACHA 3",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 90568401 TAMPÃO DE BORRACHA LPR/SR 79MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 94074701 PLUG BORRACHA 17mm/51mm C/ NIPLE INOX",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 94074701 PLUG BORRACHA 17mm/51mm C/ NIPLE INOX",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 96666302 TAMPÃO DE BORRACHA 51MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 96666302 TAMPÃO DE BORRACHA 51MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tampão 96666302 TAMPÃO DE BORRACHA 51MM",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tubo 830283104 DRAIN TUBE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tubo 90840504 DeLaval milk tube RUBBER 16/28-700 BgVV",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tubo 90840504 DeLaval milk tube RUBBER 16/28-700 BgVV",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir tubo 90840504 DeLaval milk tube RUBBER 16/28-700 BgVV",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 2761500 VÁLVULA DE DRENO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 2761500 VÁLVULA DE DRENO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 7418032 Válvula Duckbill PR3100",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 96706301 VAC TANK MOULDED VALVE DRAIN",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 98854680 PLUG DE DRENO P/ DYNAFLUSH",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 98854680 PLUG DE DRENO P/ DYNAFLUSH",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 98854680 PLUG DE DRENO P/ DYNAFLUSH",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 99540401 VEDAÇÃO PARA VÁLVULA DE DRENAGEM AERADOR",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 186647114 ANEL O RING 2327",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 186647114 ANEL O RING 2327",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340188 O-ring 17,1 x 2,6 2 pcs",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340633 ANEL DE VEDAÇÃO VÁLVULA LAVADORES",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340633 ANEL DE VEDAÇÃO VÁLVULA LAVADORES",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340633 ANEL DE VEDAÇÃO VÁLVULA LAVADORES",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 5358021008 MILK FILTER MF80 INT CASING O RING 87x3",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 5358021009 MILK FILTER MF80/85 OUT CASING O RING",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Substituir vedação 5358021010 O-RING KIT MILK FILTER MF80 DRAIN TAP",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 98498701 GAXETA DE BORRACHA P/ FILTRO 63,5MM",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 98498701 GAXETA DE BORRACHA P/ FILTRO 63,5MM",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 98498701 GAXETA DE BORRACHA P/ FILTRO 63,5MM",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Substituir vedação 99549801 DIAFRAGMA VÁLVULA LAVADORES",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Substituir vedação 99549801 DIAFRAGMA VÁLVULA LAVADORES",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Substituir vedação 99549801 DIAFRAGMA VÁLVULA LAVADORES",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedação 99941302 VEDAÇÃO HARMONY DYNAFLUSH",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedações 99940581 KIT DE VEDAÇÕES DA ARTICULAÇÃO DYNAFLUSH",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedações 99941401 SELO DE DISTRIBUIDOR P/ DYNAFLUSH",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Substituir vedações da válvula de 3 vias usando kit 90625680 Kit serviço 4000hr p/ válv. 3 vias C200",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "SWIVEL",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "Swivel Teste",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tamanho",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TAMPÃO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TAMPÃO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TAMPÃO UNIDADE FINAL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TAMPÃO UNIDADE FINAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "TAMPÃO UNIDADE FINAL",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TANQUE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tanque cheio?",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Tanque de Leite - Quantidade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tanque de Leite - Tamanho",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "TIPO": "Campo Texto"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TANQUES DE TRATAMENTO E RESFRIAMENTO DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Telefone",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Temperatura",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Temperatura da Água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TEMPERATURA DA ÁGUA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Temperatura Medida",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tempo de ação",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TEMPO DE COLOCAÇÃO DE CONJUNTO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tempo de Colocação do conjunto",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Tempo de Extração",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Tempo de injeção de ar",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Tempo de Resfriamento",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "teste",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Teste",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Teste",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Teste do joystick",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Teste do joystick",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a caixa de energia VMS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a caixa de energia VMS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a tela VMS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a tela VMS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Teteira de Limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Teteiras",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TETEIRAS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Teto Inteiro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tipo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tipo Combustível",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tipo de Garantia",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tipo de Preventiva",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tipo de Serviço",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tipo de Treinamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TIPO TANQUE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Total",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TRAFEGO DE VACAS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TRÁFEGO DE VACAS",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "TRÁFEGO DE VACAS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TRANSPORTE DE LEITE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TRANSPORTE DE LEITE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Triangulo",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Triângulo",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Troca do diafragma da válvula dentro do tanque de limpeza dos tetos",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Troca do diafragma da válvula dentro do tanque de limpeza dos tetos",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Troca do filtro do spray do pós dipping",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "Troca do filtro do spray do pós dipping",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Troca e limpeza das partes dos pulsadores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Troca e limpeza das partes dos pulsadores",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Trocar óleo da corrente que move o portão de aproximação (SAE10 óleo automotivo)",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Trocar teteiras",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TROMBONE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TROMBONE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TROMBONE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Tubulação",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TUBULAÇÃO",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "TURBULÊNCIA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Uma por teto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Unidade de Limpeza:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE DE LIMPEZA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE DE LIMPEZA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE DE LIMPEZA",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Número de unidades de ordenha (coletor):",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Unidade Final",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Unidade Final",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Unidade Final",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE LEITE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Numérico"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Número de vacas em lactação:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "VAGÃO MISTURADOR",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Valor da troca:",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Valor/Litro",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Valor por Litro do Leite",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Valor Total Abastecimento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM AUTOMÁTICA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM AUTOMÁTICA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM AUTOMÁTICA",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM DE TRANSPORTE",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VEÍCULO ABERTO E LIGADO - TRASEIRA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Venda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Venda Efetivada?",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verfique se não existe vazamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verfique se não existe vazamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação da operação adequada do sistema durante ordenha.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação da operação adequada do sistema durante ordenha.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação do ponto de regulagem da válvula de controle de fluxo de ar (FRV)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação do ponto de regulagem da válvula de controle de fluxo de ar (FRV)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação dos níveis de vácuo em cada teteira",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação dos níveis de vácuo em cada teteira",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação do Spray Ball",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação dos pulsos de água e ar e temperatura da água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificação dos pulsos de água e ar e temperatura da água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VERIFICAÇÃO DO VOLUME DE ÁGUA",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificado Não Conformidade?",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar a função dos transdutores de pressão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar alinhamento da linha de leite e suportes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar alinhamento da linha de leite e suportes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar alinhamento da linha de leite e suportes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar a operação de cada cilindro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar a operação de cada cilindro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar a operação de cada cilindro",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar bateria de back-up",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar bateria de back-up",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar bateria de back-up",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar capacidade da dosadora",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar comunicação com sala de ordenha/alimentação/medidor de atividade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar comunicação com sala de ordenha/alimentação/medidor de atividade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar comunicação com sala de ordenha/alimentação/medidor de atividade",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar condição dos LEDs indicadores nos pontos de ordenha",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar condição dos LEDs indicadores nos pontos de ordenha",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar condição dos LEDs indicadores nos pontos de ordenha",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar e apertar parafusos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar e apertar parafusos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar e testar funcionamento do teclado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar e testar funcionamento do teclado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar e testar funcionamento do teclado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento da tecla e teclado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento da tecla e teclado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento da tecla e teclado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamentodo da válvula reguladora de vácuo",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento do interruptor do portão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento do interruptor do portão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar funcionamento do interruptor do portão",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar junções de solda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar junções de solda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar junções de solda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza interior",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar limpeza interior",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação de alarmes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação de alarmes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação de alarmes",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação do sistema",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar operação do sistema",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar parafusos da contenção",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar se o alcance da fotocélula está correto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar se o alcance da fotocélula está correto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar se o alcance da fotocélula está correto",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar temperatura do mostrador",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar tensão da corrente (ajustar se necessário)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar vazamento de leite na base do swivel e conexões",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verificar visualmente o equipamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a condição dos tubos curto do coletor, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a condição dos tubos curto do coletor, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a condição e tensão da corrente de tração e de direcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a condição e tensão da corrente de tração e de direcionamento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a operação de cada cilindro e se os mesmos se movem juntos.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a operação dos portões de saída",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a pressão do vácuo / pneumático nas linhas de suprimento",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a válvula de corte, substituir se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a vedação da baioneta",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a vedação, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique a vedação, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique danos ou vazamentos nas linhas de  vac / pneum (incluído válvulas)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique higiene e vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique higiene e vazamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o funcionamento da válvula anti-retorno",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o funcionamento da válvula anti-retorno",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo do lubrificador e ajuste se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo do lubrificador e ajuste se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo e funcionamento da lubrificação (para motor de ar)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo e funcionamento da lubrificação (para motor de ar)",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo no motor redutor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo no motor redutor",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique o para peito, guias de plástico e fios da saída da frente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique os copos em U nas válvulas de 2-3 vias",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique os rolamentos",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique os tubos da bomba dosadora possuem desgaste",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique os tubos de vácuo/pressostato, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique os tubos de vácuo/pressostato, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique os tubos vácuo/transdutor, substitua se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique preparação de ar e vazamento em válvulas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique preparação de ar e vazamento em válvulas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se a pressão do escapamento está dentro dos limites",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se a pressão do escapamento está dentro dos limites",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se existe vazamento na tubulação de vácuo. Substitua peças se necessário.",
+   "TIPO": "Campo Lista"
+ },
+ {
+   "Pergunta": "Verifique se existe vazamento na tubulação de vácuo. Substitua peças se necessário.",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se há vazamento de óleo da unidade motora, substitua a vedação se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se há vazamento de óleo da unidade motora, susbtitua a vedação se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se há vazamento de óleo da unidade motora, susbtitua a vedação se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se o pressostato está bem conectado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se o pressostato está bem conectado",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se os botões / controles do interruptor funcionam corretamente",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se todas as conexões elétricas estão seguras",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se todas as conexões elétricas estão seguras",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique se todas as conexões elétricas estão seguras",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique todas as juntas de solda",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique todas as juntas e parafuso e aperte, se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Verifique todos os interruptores e relés e limpe se necessário",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VMS",
+   "TIPO": "Campo Instrução"
+ },
+ {
+   "Pergunta": "Volume de Água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "Volume de Água",
+   "TIPO": "Campo Sub-formulário"
+ },
+ {
+   "Pergunta": "VPR",
+   "TIPO": "Campo Lista"
+ }
+]

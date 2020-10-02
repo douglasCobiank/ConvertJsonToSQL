@@ -1,0 +1,15 @@
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\ConverteToJson.exe
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\ConverteToJson.deps.json
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\ConverteToJson.runtimeconfig.json
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\ConverteToJson.runtimeconfig.dev.json
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\ConverteToJson.dll
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\ConverteToJson.pdb
+C:\dev\ConverteToJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.csprojAssemblyReference.cache
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.AssemblyInfoInputs.cache
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.AssemblyInfo.cs
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.csproj.CoreCompileInputs.cache
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.csproj.CopyComplete
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.dll
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.pdb
+C:\dev\ConverteToJson\obj\Debug\netcoreapp3.1\ConverteToJson.genruntimeconfig.cache
