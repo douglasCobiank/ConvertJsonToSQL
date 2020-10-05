@@ -1,0 +1,5802 @@
+[
+ {
+   "Pergunta": "Procedimentos Realizados:",
+   "Formulario": "Qualidade de Leite "
+ },
+ {
+   "Pergunta": "Foto Procedimento:",
+   "Formulario": "Qualidade de Leite "
+ },
+ {
+   "Pergunta": "Observações:",
+   "Formulario": "Qualidade de Leite "
+ },
+ {
+   "Pergunta": "Assinatura",
+   "Formulario": "Qualidade de Leite "
+ },
+ {
+   "Pergunta": "Abrir OS no Aplicativo com data de Retorno",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Abrir OS no Aplicativo com data Retorno",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Ácido",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Ações Aplicadas",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Ações Sugeridas",
+   "Formulario": "Preventiva"
+ },
+ {
+   "Pergunta": "Acompanhar ordenha durante 15 minutos",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "Adubação área com Penergetic",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Adubação área Testemunha",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Aferição do fluxo de ar nas entradas de ar passivas",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Aferição do fluxo de ar nas entradas de ar passivas",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Aguardando resposta?",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Agua Reservatório Limpador Para-brisa",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Ajustar aperto de parafusos de fixação - torque até 26-27Nm",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Alcalino",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Numero de animais flambados",
+   "Formulario": "FLAMBAGEM DE ANIMAIS"
+ },
+ {
+   "Pergunta": "Aplicação do Pós Dipping",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Aplicação do Pós Dipping",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Aplicação imediata após a extração",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Aplicar 26-27Nm e cola Super Bonder em porcas frouxas",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Área",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Área de Penergetic",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Assinatura do responsável",
+   "Formulario": "FLAMBAGEM DE ANIMAIS"
+ },
+ {
+   "Pergunta": "Assinatura",
+   "Formulario": "Entrega Produtos"
+ },
+ {
+   "Pergunta": "Assinatura",
+   "Formulario": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Pergunta": "Assinatura Cliente",
+   "Formulario": "Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Cliente",
+   "Formulario": "Assinatura - Cópia"
+ },
+ {
+   "Pergunta": "Assinatura Cliente",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Assinatura do Cliente",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Assinatura Usuário",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Assinatura Usuário",
+   "Formulario": "Assinatura"
+ },
+ {
+   "Pergunta": "Assinatura Usuário",
+   "Formulario": "Assinatura - Cópia"
+ },
+ {
+   "Pergunta": "Assunto",
+   "Formulario": "Reunião"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Atendimento Urgente:",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Atividade Peças",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Automação",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "Automação",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "AUTOMAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Avaliação Item",
+   "Formulario": "Item Checklist"
+ },
+ {
+   "Pergunta": "Avaliação Visual",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Avaliar a condição de limpeza do equipamento (coletores, unidade final",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Avaliar a condição de limpeza do equipamento (coletores, unidade final, etc)",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Avaliar a condição de limpeza do equipamento (coletores, unidade final, etc)",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Avaliar desgaste da parte frontal do MPC - substituir se necessário",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Avaliar desgaste da parte frontal do MPC - substituir se necessário",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Avaliar desgaste da parte frontal do MPC - substituir se necessário",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Avaliar funcionamento das unidades",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Bezerras - PRODUTOS",
+   "Formulario": "BEZERRAS"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "BOMBA DE LEITE",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "BOMBA DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "BOMBA DOSADORA",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "BOMBA DOSADORA",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "BOMBA VÁCUO",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "BRAÇO ROBÓTICO",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "BRAÇO ROBÓTICO",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Buzina / Cinto de Segurança",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "CABINE INTERNA",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "CADPRO",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Calf Feeder",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "CALF FEEDER",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Calibrar medidor",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "CÂMERA E GARRA",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "CÂMERA E GARRA",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Capacidade do Tanque:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "CEP",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "CHAMPION",
+   "Formulario": "CHAMPION (Geral)"
+ },
+ {
+   "Pergunta": "Champion - PRODUTO",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "CHAMPION - Produto",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Checagem de depósitos de resíduos na unidade final",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Checagem de depósitos de resíduos na unidade final",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Checagem de desgaste na corda de sustentação das velas e borracha de absorção de impactos",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Checagem de desgaste na corda de sustentação das velas e borracha de absorção de impactos",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Checagem de válvulas de dreno, dreno automático do compressor de ar",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Checagem de válvulas de dreno, dreno automático do compressor de ar",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Checagem de vazamentos e desgaste nos tubos hidráulicos.",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Checagem de vazamentos e desgaste nos tubos hidráulicos.",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Checagem geral do processador",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Checagem geral do processador",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Checagem geral do processador",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Checar calibração do sensor",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Checar calibração do sensor",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Checar calibração do sensor",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Checar conexões de cabos e repor graxa de silicone se necessário",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Checar interior do aerador",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Checar interior do aerador",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Checar peças de unidade final, válvula de drenagem e dispositvos de limpeza",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Chiller",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Ciclo Limpeza",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "CICLO DE LIMPEZA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Cliente",
+   "Formulario": "Cadastro de Pedidos"
+ },
+ {
+   "Pergunta": "Cliente",
+   "Formulario": "Elaboração de Laudo Técnico"
+ },
+ {
+   "Pergunta": "Cliente",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Cliente",
+   "Formulario": "Elaboração Apresentação"
+ },
+ {
+   "Pergunta": "Cliente comprou de outra marca",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Cliente Comprou de Outra Marca",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Cliente desistiu da compra",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Cliente desistiu da compra",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Cliente Presente?",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Coletor",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "Coletor",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "COLETOR",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "Coletor de Amostra",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "COLETOR DE AMOSTRA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Coletores",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "COLETORES",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Componente com defeito:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Componente com defeito:",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Componente com defeito:",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "COMPONENTES EXTRAÇÃO",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "COMPONENTES EXTRAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Condições Gerais",
+   "Formulario": "Preventiva"
+ },
+ {
+   "Pergunta": "Confirma Tipo de Problema",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "CONFORTO ANIMAL",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Contagem finalizada no dia?",
+   "Formulario": "Contagem de Estoque"
+ },
+ {
+   "Pergunta": "Contenção",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "Correção",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Correção de parâmetros",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Cow Brush",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "CPF",
+   "Formulario": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Pergunta": "CPF/CNPJ",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Cultura",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Data da Apresentação",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Data da Instalação:",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Data da Retirada",
+   "Formulario": "Solicitação Produtos Para Almoxarifado"
+ },
+ {
+   "Pergunta": "Data do Fechamento",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Data estimada do faturamento",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Defeito apresentado pela peça:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Defeito apresentado pela peça:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Defeito apresentado pela peça:",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Defeito de fabricação",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Demontar e limpar",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "DETERGENTES"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "SILAGEM"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "PENERGETIC"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "BEZERRAS"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Desconto",
+   "Formulario": "DIPPINGS"
+ },
+ {
+   "Pergunta": "Descreva Ocorrência",
+   "Formulario": "Item Checklist"
+ },
+ {
+   "Pergunta": "Descreva o motivo",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Descreva Serviço Realizado",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Descrever Ações Tomadas",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Descrever Não Conformidade",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Descrever o que deve ser feito para concluir",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Descrever o serviço realizado e/ou peças utilizadas",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Descrição Apresentação",
+   "Formulario": "Elaboração Apresentação"
+ },
+ {
+   "Pergunta": "Descrição Atividade",
+   "Formulario": "Outras Atividades"
+ },
+ {
+   "Pergunta": "Descrição das atividades",
+   "Formulario": "Atividades Gerenciais"
+ },
+ {
+   "Pergunta": "Descrição das atividades",
+   "Formulario": "Elaboração de Laudo Técnico"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Descrição do defeito (detalhada):",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Descrição Problema",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Desgaste por tempo de uso",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Desgaste por tempo de uso",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Desmontar e limpar",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar partes",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmontar e limpar todas as peças",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Desmontar e limpar todas as peças",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Desmontar e limpar todas as peças",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Desmonte e limpe, lubrifique",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Desmonte e limpe, lubrifique",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Detalhamento",
+   "Formulario": "Avaliar Conformidade"
+ },
+ {
+   "Pergunta": "Detalhamento do problema encontrado",
+   "Formulario": "Preventiva"
+ },
+ {
+   "Pergunta": "DETERGENTES",
+   "Formulario": "DETERGENTES (Geral)"
+ },
+ {
+   "Pergunta": "Detergentes - PRODUTO",
+   "Formulario": "DETERGENTES"
+ },
+ {
+   "Pergunta": "DIANTEIRA",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "DIANTEIRA",
+   "Formulario": "Teste"
+ },
+ {
+   "Pergunta": "DIPPINGS",
+   "Formulario": "DIPPINGS (Geral)"
+ },
+ {
+   "Pergunta": "Dippings - PRODUTOS",
+   "Formulario": "DIPPINGS"
+ },
+ {
+   "Pergunta": "DISPOSITIVO DE LIMPEZA",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "DISPOSITIVO DE LIMPEZA",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Documentação do Veículo",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Dosagem:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Dosagem dos Químicos - Ácido",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Dosagem dos Químicos - Alcalino",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "DOSAGENS",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Dosagens - Ácido",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Dosagens - Alcalino",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Dosagens - Ciclo de Limpeza",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Dosagens - Injetor de Ar",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Dosagens - Sanitizante",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Dosagens - Turbulência",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "DT",
+   "Formulario": "Qualidade de Leite "
+ },
+ {
+   "Pergunta": "Duplo Pré",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Elimine os rolamentos laterais da unidade (apenas válidos para modelos mais antigos)",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Elimine os rolamentos laterais da unidade (apenas válidos para modelos mais antigos)",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Elimine os rolamentos laterais da unidade (válido para modelos mais antigos)",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "E-mail",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Endereço",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "ENTRADA DE ALEITE",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "ENTRADAS DE LEITE",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "ENTRADAS DE LEITE",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "ENTRADAS UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Entrega efetivada?",
+   "Formulario": "Entrega Produtos"
+ },
+ {
+   "Pergunta": "EQUIPAMENTOS DE ORDENHA",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "ESCRAVO DO REGULADOR",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Especificação do Óleo:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Espelho Retrovisor e Vidro da porta - Quebra",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Espelho Retrovisor e Vidro da porta - Quebra",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Espuma",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Estenda completamente as hastes do pistão e limpe com um pano seco",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "ESTRADAS UNIDADE FINAL",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Execute um ciclo de limpeza de teste",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Execute um ciclo de limpeza de teste",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Execute um ciclo de limpeza de teste",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Extintor de incêndio",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Extração Automática",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Faltaram peças?",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Faltaram Peças",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "FALTARAM PEÇAS?",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "Fazer back-up de memória",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Fazer back-up de memória",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Fazer back-up de memória",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "FILTRO DE LEITE",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Forma de Pagamento",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Foto"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "Foto",
+   "Formulario": "Avaliar Conformidade"
+ },
+ {
+   "Pergunta": "Foto da Não Conformidade",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Foto do Equipamento / Peça",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Foto Item Não Conforme",
+   "Formulario": "Item Checklist"
+ },
+ {
+   "Pergunta": "Foto Peça",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Foto Peças",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Foto Preventiva",
+   "Formulario": "Preventiva"
+ },
+ {
+   "Pergunta": "Fotos da Flambagem",
+   "Formulario": "FLAMBAGEM DE ANIMAIS"
+ },
+ {
+   "Pergunta": "Fotos",
+   "Formulario": "Preventiva"
+ },
+ {
+   "Pergunta": "Fotos Gerais",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Fotos Gerais",
+   "Formulario": "Registro de Visita"
+ },
+ {
+   "Pergunta": "Funcionamento dos vidros e maçanetas internas",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Garantia Nutrição",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Garantia Rotatória",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Garantia Tanque",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Garantia Tubos e Teteiras",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Garantia VMS",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Quantidade de gás utilizado",
+   "Formulario": "FLAMBAGEM DE ANIMAIS"
+ },
+ {
+   "Pergunta": "Hora da Retirada",
+   "Formulario": "Solicitação Produtos Para Almoxarifado"
+ },
+ {
+   "Pergunta": "Hora Fim",
+   "Formulario": "Treinamento"
+ },
+ {
+   "Pergunta": "Hora Fim",
+   "Formulario": "Reunião"
+ },
+ {
+   "Pergunta": "Hora Início",
+   "Formulario": "Reunião"
+ },
+ {
+   "Pergunta": "Hora Início",
+   "Formulario": "Treinamento"
+ },
+ {
+   "Pergunta": "Horário chegada",
+   "Formulario": "Carregamento de Produtos"
+ },
+ {
+   "Pergunta": "Horário de Saída",
+   "Formulario": "Carregamento de Produtos"
+ },
+ {
+   "Pergunta": "Hora Trabalhada",
+   "Formulario": "Recursos Utilizados"
+ },
+ {
+   "Pergunta": "Imersão",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Informar o número do Pedido da Delaval",
+   "Formulario": "Cadastro de Pedidos"
+ },
+ {
+   "Pergunta": "Informe a Peça",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "INÍCIO - VEÍCULO DESLIGADO",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "INJETOR DE AR",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "INJETOR DE AR",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "INJETOR DE AR",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Inspeção da Magazine de teteiras",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção da Magazine de teteiras",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção da placa de proteção, vidro da câmera e lasers",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção da placa de proteção, vidro da câmera e lasers",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção da placa traseira",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção da placa traseira",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção da placa traseira",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção das linhas de ar comprimido e filtros reguladores",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção das linhas de ar comprimido e filtros reguladores",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção do bloco de válvulas no bloco de controle",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção do bloco de válvulas no bloco de controle",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do braço inferior",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção do braço inferior",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do filtro de óleo e checagem de vazamentos no sistema hidráulico",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do filtro de óleo e checagem de vazamentos no sistema hidráulico",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção do limpador de pisos",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do limpador de pisos",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção do mecanismo de parada e o atuador de rotação",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do mecanismo de parada e o atuador de rotação",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos cilindros de extração e suas cordas",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos cilindros de extração e suas cordas",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção dos encoders",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos encoders",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do sistema de limpeza da câmera",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do sistema de limpeza da câmera",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na prateleira magazine",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na prateleira magazine",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na unidade final",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos de água na unidade final",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos e limpeza da válvula de não retorno",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção dos jatos e limpeza da válvula de não retorno",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção do VMS e portões de seleção",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção do VMS e portões de seleção",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da garra",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da garra",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da teteira de limpeza e troca do colar",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza da teteira de limpeza e troca do colar",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza do tubo da teteira de limpeza",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspeção e limpeza do tubo da teteira de limpeza",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção visual na válvula de leite do tanque",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Inspeção visual na válvula de leite do tanque",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Inspecionar anel de carvão",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Inspecionar cilindros de suspensão",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Inspecionar cilindros de suspensão",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Inspecionar e limpar a grade de ventilação",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar e limpar a grade de ventilação",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar e limpar a grade de ventilação",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar entradas de leite",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Inspecionar escovas, molas e trilhos do swivel",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Inspecionar esferas de borracha no Y das válvulas (caso tenha injetor de ar)",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Inspecionar e testar o equipamento",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Inspecionar e testar o equipamento",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Inspecionar e testar parâmetros",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Inspecionar indicador de fluxo",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Inspecionar nós mostrados no display",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar nós mostrados no display",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar nós mostrados no display",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar os rolamentos",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Inspecionar tensão e desgaste dos cabos da contenção",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Inspecionar tensão e desgaste dos cabos da contenção",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Inspecionar válvula",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Inspecionar válvula",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Inspecionar vazamento em todas as conexões de vácuo/válvulas",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Inspecionar vazamento em todas as conexões de vácuo/válvulas",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Inspecionar vazamento em todas as conexões de vácuo/válvulas",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Inspecione a bucha da corrente para um desgaste ou dano severo",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Inspecione a corrente para torções",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Inspecione a montagem do motor",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Inspecione a montagem do motor de ar",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Inspecione a válvula silenciadora para bloquear ou danificar",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Inspecione dentro da caixa do aquecedor se há cabos com corrosão",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Inspecione dentro da caixa do aquecedor sinais de vazamento ou umidade",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Inspecione dentro da caixa do aquecedor sinais de vazamento ou umidade",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Inspecione o cilindro para uso excessivo ou dano",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Inspecione o gancho de pressão da garra por danos",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Inspecione os cabos dentro da caixa do aquecedor para verificar se há corrosão",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Inspecione o sensor de segurança",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Inspecione o sensor de segurança",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Inspecione todas as caixas de controle de ar. Verifique se há vazamentos",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Inspecione todas as caixas de controle de ar. Verifique se há vazamentos",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "INSTRUÇÃO VENDEDOR",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Instrumentos de medição do painel - Funcionamento",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Intenção ou Prospecção",
+   "Formulario": "Venda de Bens de Capital"
+ },
+ {
+   "Pergunta": "ITENS DE SERVIÇOS OPCIONAIS",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "ITENS DE SERVIÇOS OPCIONAIS",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "KM",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Km da troca:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "KM Utilizado",
+   "Formulario": "Recursos Utilizados"
+ },
+ {
+   "Pergunta": "LADO DIREITO",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "LADO ESQUERDO",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Lanternas / Faróis - Quebra das Lentes",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Lanternas traseira - Quebra de lentes",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Lataria e Pintura",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Laticínio:",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Lavar com água",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Lave a bomba com água e detergente",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Lave a bomba com água e detergente",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Lave a bomba com água e detergente",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpador de parabrisa",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Limpador e Vidro traseiro",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Limpar aspersor",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Limpar aspersor",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Limpar cada cilindro de vácuo",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Limpar cada cilindro de vácuo",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Limpar cada cilindro de vácuo",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Limpar drenagem automática e elemento filtrante",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Limpar drenagem automática e elemento filtrante",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Limpar e checar funcionamento",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Limpar e inspecionar as peças do lubrificador",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpar e inspecionar as peças do lubrificador",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Limpar fotocélula com um pano úmido",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Limpar fotocélula com um pano úmido",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Limpar fotocélula com um pano úmido",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Limpar o processador com um tecido umidificado",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Limpar o processador com um tecido umidificado",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Limpar o processador com um tecido umidificado",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Limpar peças utilizando água quente e detergente",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Limpar reservatórios de detergentes",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Limpar reservatórios de detergentes",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Limpar swivel elétrico - limpar escovas e espaços com jato de ar limpo",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Limpar válvula de drenagem",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Limpar válvula de drenagem",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Limpar válvulas de entrada de ar",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Limpar ventoinha do motor elétrico",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Limpe a linha de vácuo e o tanque",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe a linha de vácuo e o tanque",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe a linha de vácuo e o tanque",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Limpe a linha e o tanque de vácuo",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe as entradas de ar (se VSD instalado)",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Limpe as entradas de ar (se VSD instalado)",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe as entradas de ar (se VSD instalado)",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe a unidade final e aerador",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Limpe cada cilindro externamente com água quente e detergente (com a haste do pistão retraída)",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Limpe e substitua vedações nas válvulas de 2-3 vias",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Limpe e verifique",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Limpe o filtro",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Limpe o filtro",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Limpe o filtro",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Limpe o filtro de ar, se incluído. Substitua se estiver danificado",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Limpe os filtros",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Limpe os filtros de ar",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "LIMPEZA",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Limpeza com escova",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza com escova",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza/Conservação do Equipamento",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Limpeza da boia",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza da gaveta da posição de stand-by da teteira de limpeza",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Limpeza da gaveta da posição de stand-by da teteira de limpeza",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "LIMPEZA DA ORDENHADEIRA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza das vedações",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza da tampa",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza da unidade final",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza de Spray Ball",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza do aereador",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza do destrutor de espuma",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza dos cotovelos de entrada",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Limpeza do tanque da teteira de limpeza",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Limpeza do tanque da teteira de limpeza",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Limpeza do Teto",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Limpeza e Adesivos da Lateral - Conservação",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Limpeza e Adesivos da Lateral - Conservação",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Limpeza e Conservação do bancos, tapetes e pedais",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Limpeza manual",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Linha de Leite",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "Linha de Leite",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha de Leite"
+ },
+ {
+   "Pergunta": "LINHA DE LEITE",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "Linha de Transferência",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "LINHA DE TRANSFERÊNCIA",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "LINHA DE TRANSFERÊNCIA",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "Linha Transferência",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "LINHA TRANSFERÊNCIA",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "Local do defeito:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Lubrificar acadeia de trilhos e a corrente de transmissão (óleo automotivo SAE10)",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Lubrificar a corrente com uma mecha de óleo",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Lubrificar com óleo para pulsador",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Lubrificar eixos e conexões de portões",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Lubrificar eixos e conexões de portões",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Lubrificar eixos e conexões de portões",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Lubrificar o eixo do pistão com graxa de silicone",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Lubrificar o eixo do pistão com graxa de silicone",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Lubrificar o eixo do pistão com graxa de silicone",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anticorrosivo",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Lubrificar o motor com anti-corrosivo",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Lubrificar os rolamentos (NLGI # 2 graxa à base de lítio ou equiv.)",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Lubrificar os rolamentos (NLGI # 2 graxa à base de lítio ou equiv.)",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Lubrificar todas as dobradiças",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Lubrificar vedações e inserções de Nylon com lubrificante",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Luzes (Freio / Placa / Ré / Alerta / Faróis)",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Macaco e Chave de roda",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Maçaneta lado externo",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Maçaneta lado externo",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "MAGAZINE",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "MAGAZINE",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "MANEJO DE DEJETOS",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Mangueiras",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "MANGUEIRAS",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Manutenção do BCC/BVV",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Manutenção do BCC/BVV",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Marca",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Marca do Filtro:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Marca do Óleo:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Média da Produção de Leite",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "MEDIDOR DE LEITE",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "MEDIDORES DE LEITE",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "MEDIDORES DE LEITE",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "MEDIDOR LEITE",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Medir pulsador",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "Medir vácuo",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "Ministrado Por",
+   "Formulario": "Treinamento"
+ },
+ {
+   "Pergunta": "Modelo",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Modelo",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Modelo",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Modelo",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Modelo:",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Modelo da unidade condensadora:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Modelo de Contenção",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Modelo do coletor:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Modelo do Tanque:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Modelo Equipamento:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "MÓDULO DE LIMPEZA TETOS",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "MÓDULO DE LIMPEZA TETOS",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "MÓDULO DE ORDENHA",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "MÓDULO DE ORDENHA",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Motivo da venda não ser efetivada",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "MOTIVO DA VISITA",
+   "Formulario": "Venda de Bens de Capital"
+ },
+ {
+   "Pergunta": "Motivo de faltar peças",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Motivo de Não Concluir",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Motivo de não ter concluído",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Motivo não finalizar",
+   "Formulario": "Contagem de Estoque"
+ },
+ {
+   "Pergunta": "Motivo Venda Não Efetivada",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Motivo Venda Não Realizada",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "MPC",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "MPC",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "MPC",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "MPC",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Município",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Necessita de Intervenção?",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Negociação",
+   "Formulario": "Venda de Bens de Capital"
+ },
+ {
+   "Pergunta": "Nível Água do Radiador",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Nível de água do radiador:",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Nível e qualidade do óleo do motor",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Nível Óleo do Motor",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Nº de Conjunto de Ordenha",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Nº de conjuntos",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de estação",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de estação",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de lagoas de separação",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de portões",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº  de scraper",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nº de série",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Nome",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Nome completo",
+   "Formulario": "Assinatura"
+ },
+ {
+   "Pergunta": "Nome completo",
+   "Formulario": "Assinatura - Cópia"
+ },
+ {
+   "Pergunta": "Nome Completo",
+   "Formulario": "Entrega Produtos"
+ },
+ {
+   "Pergunta": "Nome Completo:",
+   "Formulario": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Pergunta": "Nome da Propriedade",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Nota Fiscal",
+   "Formulario": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Pergunta": "Número da Nota Fiscal:",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Nota Fiscal",
+   "Formulario": "Entrega Produtos"
+ },
+ {
+   "Pergunta": "NÚMERO DA NF",
+   "Formulario": "Carregamento de Produtos"
+ },
+ {
+   "Pergunta": "NÚMERO DA NF DE DEVOLUÇÃO",
+   "Formulario": "Devolução de Produtos"
+ },
+ {
+   "Pergunta": "Número da ordem de troca:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Número da Ordem de Abastecimento",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Número de Série do Tanque",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de Série da Rotatória",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Número de Série da Unidade Condensadora",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de Série do Produto:",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Número de série do produto:",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Número de Série do Produto",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Número de Série do Produto",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Número de Série do Produto:",
+   "Formulario": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Pergunta": "Número de Série do Produto:",
+   "Formulario": "Nutrição"
+ },
+ {
+   "Pergunta": "Número de série do produto/lote:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Número de série do Produto/Lote",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Número de Série do Produto / Lote",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Número de Série do Tanque:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de série unidade condensadora:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de Série Unidade Condensadora:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de série unidade condensadora 2 (quando houver):",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "Número de Vacas em Ordenha",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "NUTRIÇÃO ANIMAL",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Objetivo da Visita",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Observações sobre a realização da Flambagem",
+   "Formulario": "FLAMBAGEM DE ANIMAIS"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Observação",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Carregamento de Produtos"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Contagem de Estoque"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Observações 2",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Leite"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha de Leite"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Observações:",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Recursos Utilizados"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Solicitação Produtos Para Almoxarifado"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "observações"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Assinatura"
+ },
+ {
+   "Pergunta": "Observações",
+   "Formulario": "Devolução de Produtos"
+ },
+ {
+   "Pergunta": "Observações Gerais",
+   "Formulario": "Registro de Visita"
+ },
+ {
+   "Pergunta": "Observar condição dos tubos curtos de pulsação, trocar se necessário",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Observar condição dos tubos curtos de pulsação, trocar se necessário",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Observar condição dos tubos curtos de pulsação, trocar se necessário",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Observar funcionamento da válvula de corte de vácuo",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Observar funcionamento da válvula de corte de vácuo",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Observar funcionamento da válvula de corte de vácuo",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Observar nível de óleo no motor redutor (reabastecer se preciso)",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Observar nível do lubrificador",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observar nível do lubrificador",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observar nível do lubrificador",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem resíduos dentro dos coletores",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Leite"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha de Leite"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Observar se existem vazamentos",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Observar suportes da unidade",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Observar suportes da unidade",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Observar tensionamento de correias",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Observar vazamentos",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Observe se a válvula de dreno do tanque sanitário se move perfeitamente",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Observe se a válvula de dreno do tanque sanitário se move perfeitamente",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Observe se a válvula de dreno do tanque sanitário se move perfeitamente",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "O que deve ser feito para concluir?",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "ORDENHADEIRA",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Número de ordenhas/dia:",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "ORDENHADOR",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Ordenhador está usando EPI",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Ordenhas",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Outra Cultura",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Outra Forma Forma de Pagamento",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Outras Marcas",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Outro Posto",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Outro Posto:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Outros",
+   "Formulario": "Treinamento"
+ },
+ {
+   "Pergunta": "Outro Serviço",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Papel toalha",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Parabrisa - trincas",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Para-choque",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Para choque / Grade Frontal - Quebra",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Pasteurizador",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "PEÇAS E TETEIRAS",
+   "Formulario": "PEÇAS E TETEIRAS (Geral)"
+ },
+ {
+   "Pergunta": "Peças e Teteiras - PRODUTOS",
+   "Formulario": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Pergunta": "Peças que faltaram",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Pedido fechado pelo proprietário",
+   "Formulario": "Assinatura - Cópia"
+ },
+ {
+   "Pergunta": "Pedido fechado pelo proprietário",
+   "Formulario": "Assinatura"
+ },
+ {
+   "Pergunta": "Penergetic - PRODUTOS",
+   "Formulario": "PENERGETIC"
+ },
+ {
+   "Pergunta": "Perguntar ao funcionário se há problema no equipamento",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "Placa dianteira - legível",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Placa traseira - legível",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Pneu",
+   "Formulario": "Teste"
+ },
+ {
+   "Pergunta": "Pneu de Socorro Calibrado",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Pneu Dianteiro / Roda e Calota",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Pneu Dianteiro / Roda e Calota",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Pneu Traseiro / Roda e Calota",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Pneu Traseiro / Roda e Calota",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Ponta de teto",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "PONTO DE ORDENHA",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "PONTO DE ORDENHA",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "PORTÃO APROXIMAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Portão de Aproximação",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "PORTÃO DE APROXIMAÇÃO",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "PORTÃO DE APROXIMAÇÃO",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "PORTÃO DE APROXIMAÇÃO",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Portão de Separação",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "PORTÃO DE SEPARAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Pós Ordenha",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "PÓS ORDENHA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Posto",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Posto:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Prazo de Pagamento",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Prazo de Pagamento",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "PENERGETIC"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "SILAGEM"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "BEZERRAS"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "DIPPINGS"
+ },
+ {
+   "Pergunta": "Preço Unitário",
+   "Formulario": "DETERGENTES"
+ },
+ {
+   "Pergunta": "Pré Dipping",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Preparação dos Animais",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "PREPARAÇÃO DOS ANIMAIS - Limpeza do teto",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "PREPARAÇÃO DOS ANIMAIS - Pré Dipping",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "PREPARAÇÃO DOS ANIMAIS - Secagem",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Pré-Placas",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Problema resolvido?",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Problema Resolvido?",
+   "Formulario": "Avaliar Conformidade"
+ },
+ {
+   "Pergunta": "Problema solucionado?",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Problema Solucionado",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "PROCESSADOR DE DADOS",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "PROCESSADOR DE DADOS",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "PROCESSADOR DE DADOS",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Procure por vazamentos",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Procure por vazamentos",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Produção kg por há área com Penergetic",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Produção kg por há área Testemunha",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Produção de Leite - Litros/dia:",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Produto de limpeza utilizado:",
+   "Formulario": "Tubos e Teteiras"
+ },
+ {
+   "Pergunta": "Produto entregue na venda?",
+   "Formulario": "PENERGETIC"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "Formulario": "DETERGENTES"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "Formulario": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "Formulario": "SILAGEM"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "Formulario": "BEZERRAS"
+ },
+ {
+   "Pergunta": "Produto entregue na Venda?",
+   "Formulario": "DIPPINGS"
+ },
+ {
+   "Pergunta": "Produto Entregue na Venda? ",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "PRODUTO PENERGETIC",
+   "Formulario": "PENERGETIC (Geral)"
+ },
+ {
+   "Pergunta": "PRODUTOS",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Produtos BEZERRAS",
+   "Formulario": "BEZERRAS (Geral)"
+ },
+ {
+   "Pergunta": "Programador de Limpeza",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Proteção de Carter",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "PULSADOR",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "PULSADOR MASTER",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Quais peças",
+   "Formulario": "Corretiva"
+ },
+ {
+   "Pergunta": "Qual gerência?",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "DIPPINGS"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "BEZERRAS"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "SILAGEM"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "DETERGENTES"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Pergunta": "Quantidade",
+   "Formulario": "PENERGETIC"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "PEÇAS E TETEIRAS (Geral)"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "DIPPINGS (Geral)"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "PENERGETIC (Geral)"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "CHAMPION (Geral)"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "DETERGENTES (Geral)"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "SILAGEM (Geral)"
+ },
+ {
+   "Pergunta": "QUANTIDADE",
+   "Formulario": "BEZERRAS (Geral)"
+ },
+ {
+   "Pergunta": "Quantidade de Litros",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Quantidade litros:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Rádio / Antena (Quando houver)",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Reagendado Para",
+   "Formulario": "Contagem de Estoque"
+ },
+ {
+   "Pergunta": "Recebido pelo proprietário?",
+   "Formulario": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Pergunta": "Recebido Pelo Proprietário?",
+   "Formulario": "Entrega Produtos"
+ },
+ {
+   "Pergunta": "Registra Não Conformidade para Manutenção?",
+   "Formulario": "Preventiva"
+ },
+ {
+   "Pergunta": "Registro de unidade final",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "REGULADOR DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Rengraxar rolamentos (graxa de Lítio NLGI #2)",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Replace bottom seal of trap 91752901 Seal for trap VMS",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Repor óleo em redutores do motor",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "RESFRIADOR A PRÉ PLACA",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "RESFRIADOR A PRÉ-PLACA",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "RESFRIADOR A PRÉ-PLACA",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "RESFRIAMENTO",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Ressecadas",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "RESULTADO",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Resultado Financeiro",
+   "Formulario": "Visita a Campo Penergetic"
+ },
+ {
+   "Pergunta": "Retenção de resíduo",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Retornar Data",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Retrovisor",
+   "Formulario": "Teste"
+ },
+ {
+   "Pergunta": "Revestir as hastes do pistão com graxa de silicone (vac cilindros) ou graxa Magnalube-G (cilindros pneumáticos)",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "RG",
+   "Formulario": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Pergunta": "RG/CPF",
+   "Formulario": "Assinatura - Cópia"
+ },
+ {
+   "Pergunta": "RG/CPF",
+   "Formulario": "Assinatura"
+ },
+ {
+   "Pergunta": "RG/CPF",
+   "Formulario": "Entrega Produtos"
+ },
+ {
+   "Pergunta": "Rotina de Ordenha",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "ROTINA DE ORDENHA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Sala de Ordenha",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "SALA DE ORDENHA",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Sanitizante",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Dosagem dos Químicos - Sanitizante",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "SCRAPER",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Scrapper",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Iniciar Relatório de Entrada na Empresa",
+   "Formulario": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Pergunta": "Selecionar Seu Nome:",
+   "Formulario": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Pergunta": "Selecionar Colega 01:",
+   "Formulario": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Pergunta": "Selecionar Colega 02",
+   "Formulario": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Pergunta": "Selecionar Colega 03:",
+   "Formulario": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Pergunta": "Observação (se houver):",
+   "Formulario": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Pergunta": "Secagem",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Se incluída - drenar a água do tanque do compressor de ar",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Se incluído - verifique o compressor de ar de acordo com a documentação do fabricante",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Sem furos",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Se o problema foi resolvido parcialmente abrir OS pelo aplicativo programando retorno no cliente",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "SERVIÇO",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Serviço Concluído?",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Serviço de HerdNavigator",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Serviço de HerdNavigator",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Serviço do coletor de amostra",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Serviço do coletor de amostra",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Serviço do contador de células somáticas OCC",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Serviço do contador de células somáticas OCC",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Serviço Steam Back Flush",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Serviço Steam Back Flush",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "SILAGEM",
+   "Formulario": "SILAGEM (Geral)"
+ },
+ {
+   "Pergunta": "Silagem - PRODUTOS",
+   "Formulario": "SILAGEM"
+ },
+ {
+   "Pergunta": "SISTEMA DE DEJETOS",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Sistema de Limpeza",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "SISTEMA DE LIMPEZA",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "SISTEMA DE LIMPEZA",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "SISTEMA DE LUBRIFICAÇÃO",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Sistema de Vácuo",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "Sistema de Vácuo",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "SISTEMA DE VÁCUO",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "SISTEMA HIDRÁULICO",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "SISTEMA HIDRÁULICO",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "SISTEMA LIMPEZA",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "SISTEMA LUBRIFICAÇÃO",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "SISTEMA PNEUMÁTICO",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "SISTEMA PNEUMÁTICO",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "SISTEMA VMS",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "SISTEMA VMS",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Situação",
+   "Formulario": "Avaliar Conformidade"
+ },
+ {
+   "Pergunta": "Situação da Negociação",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Situação da Venda",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Situação da Venda",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "Situação Negociação",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Sobredosagem",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Software de Gerenciamento",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "SOFTWARE GERENCIAMENTO",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "SOFTWARE GERENCIAMENTO",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "Solução Nível Água",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Solução para o nível de óleo",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Somente papel",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Somente produto",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Spray",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "STALLING",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Substitua a corda de extração",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substitua a junta da tampa do receptor 830934509 Vedação p / aerador UF Breezway",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua as juntas 830934509 Vedação p / aerador UF Breezway",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua as juntas da válvula de retenção 94549401 Seal kit f. 94176101 NON RETURN VALVE 51",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua a tela 830646006 visor p / válv. injetar. ar PR3100",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua a vedação ACR 98346101 ACR SEAL PISTON",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substitua a vedação dupla do pré placa, 86305401 junta BM duplo BFR",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substitua a vedação dupla do pré placa, 86305401 junta BM duplo BFR",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substitua a vedação exterior 99583701 VEDAÇÃO DA TAMPA AERADOR MV-75",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua a vedação externa - VEDAÇÃO DA TAMPA AERADOR MV-75",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua a vedação inferior  91752901 Vedação para o VMS",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua a vedação inferior 91752901 Vedação para o VMS.",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substitua o anel-O do filtro 831132271 O-RING,FILTER L17&F17 #2306-53 -",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Substitua o Kit 830835981 TAMPAS TRANSPARENTES MC73",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Substitua o óleo no redutor do motor de ar  (Mobil SHC 626 or Chevron RPM Synthetic Gear Lube 75W-90)",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Substitua o óleo no redutor do motor de ar (Mobil SHC 626 or Chevron RPM Synthetic Gear Lube 75W-90)",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Substitua O-ring do filtro 831132271 O-RING,FILTER L17&F17 #2306-53",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Substitua o tampão do pré-placa 86305101 junta BM simples BFR",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substitua o tampão do pré-placa 86305101 junta BM simples BFR",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir anel de carvão 99543801 ANEL DE CARVÃO FMP 55 SINGLE",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir anel de carvão 99543801 ANEL DE CARVÃO FMP 55 SINGLE",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir anel de carvão 99683601 ANEL DE CARVÃO FMP 110 SINGLE",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir bola de borracha 95618901 ESFERA PE - 1800",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir correia 6464700 CORREIA A 55 P/ VP 77",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir diafragma 85850902 Membrane RS-valve",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir filtro 89534901 Filter 5 #m",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir filtro 89534901 Filter 5 #m",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir junta dupla 86305401 BM gasket double BFR",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir junta única 86305101 BM gasket single BFR",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir luva de borracha 98966601 LUVA DE BORRACHA C/ FURO C200",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Substituir mangueiras da bomba dosadora 834151702 Peristaltic tube w connector C425",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Substituir mangueiras da bomba dosadora 98724406 TUBO P/ BOMBA DOSADORA P/ DETERGENTE",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Substituir peça 84983945 KIT SERVICO BVP700/900 / VP76 8000hr",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 85132601 Kit serviço 2000hr p/ amostrador - MM27",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peça 85132601 Kit serviço 2000hr p/ amostrador - MM27",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peça 86307331 Service kit FMP55 4000h",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 86307331 Service kit FMP55 4000h",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 86307331 Service kit FMP55 4000h",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 86307431 Service kit FMP110 4000h",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 86606031 Service kit MU350, MU450, 4,000 hours",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peça 87840330 Kit serviço LVP3000 4000hrs",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 87840330 Kit serviço LVP3000 4000hrs",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 87840331 Kit serviço 4000h LVP4500",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peça 90621383 TF350 service kit 4000H",
+   "Formulario": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Pergunta": "Substituir peça 90621383 TF350 service kit 4000H",
+   "Formulario": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Pergunta": "Substituir peça 91346308 GAXETA UNIÃO TC 101,6MM",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 91724903 TUBO LEITE SILICONE AZUL 22/36 L=65mm",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peça 91724903 TUBO LEITE SILICONE AZUL 22/36 L=65 mm",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 92923581 Kit serviço 2000h regulador MVRM (novo)",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peça 94558031 Kit Serviço p/ bomba FMP-220 2000hr",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 98484601 GAXETA 76 MM P/ U.F. SR/LPR",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 98484603 Entrada 51mm/79 P/ U.F. GR50/SR/LPR",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 98508501 Hygienius gasket f 2/3 valve",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 98508501 Hygienius gasket f 2/3 valve",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peça 98508501 Hygienius gasket f 2/3 valve",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 186644080 GASKET, FLANGE 3´´ RUB",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 186645043 VEDAÇÃO INFERIOR GROSSA TAMPA",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 186645043 VEDAÇÃO INFERIOR GROSSA TAMPA",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 186645239 JUNTA UNIÃO DANESA 2.1/2\"",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 186645239 JUNTA UNIÃO DANESA 2.1/2\"",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 186646147 COTOVELO DE BORRACHA 3",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 186648742 REDUÇÃO DE BORRACHA 52/76MM",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 186649904 COTOVELO DE BORRACHA 51 x 51 FMP110",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 186649905 CURVA BORRACHA 51 - 32MM FMP55",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 22512203 V-BELT VB A39 13*1030",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças 830869280 Kit de vedações 2000hrs swivel PR3100",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Substituir peças 86304001 BM ring gasket for frame/plate",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 86304001 BM ring gasket for frame/plate",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 86304001 BM ring gasket for frame/plate",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 87376280 CIP Seal - 4 pc",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Substituir peças 90577108 gasket 114/101,6 mm",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças 90740802 VEDAÇÃO P/ VÁLVULA DE LEITE ENT. 25MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças 90995280 KIT VEDAÇÃO VELA TETEIRA TIPO M 4PÇ",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91346302 GAXETA UNIÃO TC 38mm",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha de Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91346304 GAXETA UNIÃO TC 51MM (2\")",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 91346306 Vedação União TC 63mm PR3100",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91346307 GAXETA UNIÃO TC 75MM (3\")",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 91346308 GAXETA UNIÃO TC 101,6MM",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91346308 GAXETA UNIÃO TC 101,6MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91400501 Vedação p/ unidade final  SR100HC",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91470502 Gaxeta de vedação 2000hr - MM25/27BC",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças 91470502 Gaxeta de vedação 2000hr - MM25/27BC",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças 91470502 Gaxeta de vedação 2000hr - MM25/27BC",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças 91700701 VEDAÇÃO UNIÃO INOX 50 MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 91960101 VEDAÇÃO ENTRADA DE LEITE INOX 22 MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Substituir peças 92724880 ESFERA AERADOR UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 95237007 ANEL DE BORRACHA TAMPA DUOVAC",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 95993901 GASKET VPU 74/76",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças 96750680 KIT DE PEÇAS PARA LUBRIFICADOR",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças 96750680 KIT DE PEÇAS PARA LUBRIFICADOR",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças 96780701 Tube bend 16/11 mm EP",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças 96817602 REDUÇÃO DE BORRACHA 50 - 40 MM",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 96817602 REDUÇÃO DE BORRACHA 50 - 40 MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 96817602 REDUÇÃO DE BORRACHA 50 - 40 MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 98317101 TUBO CURVO EM BORRACHA",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 98317101 TUBO CURVO EM BORRACHA",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 98317101 TUBO CURVO EM BORRACHA",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 98788201 DeLaval milk tube reinforced rubb 40/60",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 98788201 DeLaval milk tube reinforced rubb 40/60",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir peças 98884401 LUVA CONEXÃO 51/51 SR100",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 98884601 REDUÇÃO DE BORRACHA 50/25mm",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 98908301 LUVA DE BORRACHA P/ UNIÃO  51MM",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Substituir peças 99833280 VÁLVULA COLETOR LEITE TF350/TF360/HCC",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças 99833280 VÁLVULA COLETOR LEITE TF350/TF360/HCC",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças do amostrador de leite 85608102 KIT DO TUBO DO AMOSTRADOR DE LEITE MM27",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças do amostrador de leite 85608102 KIT DO TUBO DO AMOSTRADOR DE LEITE MM27",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 830835980 KIT DE SERVIÇOS MC73",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 830835980 KIT DE SERVIÇOS MC73",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 85290430 Kit Serviço 2000hr Pulsador HP101/102",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 86950830 KIT SERVIÇO 4000HR PARA PULSEBOY RP30",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87689130 Kit 4000hr p/ ATM/ATM s/ baioneta",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87689130 Kit 4000hr p/ ATM/ATM s/ baioneta",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87851030 Kit 4000hr EP100/VAC/VAC s/baioneta",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved. tampa)",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 87883730 Kit serviço 8000hrs (placas+ved.tampa)",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 88247030 Service kit RP30 8000h",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923580 Espuma Flt. 2000h P/ Reg. MVRM Antigo",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923580 Espuma Flt. 2000h P/ Reg. MVRM Antigo",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923642 MVR Service kit 4000H",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923643 KIT SERVIÇO 4000HR REG. MVR-S (MOD NOVO)",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 92923644 MVR-M Service kit 4000H",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99902530 Service Kit Drain Valve 4000h",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99902530 Service Kit Drain Valve 4000h",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99902530 Service Kit Drain Valve 4000h",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Substituir peças usando kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Substituir peças usando Kit 99925380 Kit serviço 4000 hr p/ EP100/2090/VACVAC",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Substituir peças utilizando kit de serviço 92731730 Kit serviço coletor MC9 c/ válvula 4000h",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Substituir placa da válvula 99986501 PLACA DA VÁLVULA PULSADOR ELETRÔNICO",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 91086801 PLUG 38 MM P/ SENSOR DE NÍVEL",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 91086801 PLUG 38 MM P/ SENSOR DE NÍVEL",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 91086801 PLUG 38 MM P/ SENSOR DE NÍVEL",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir plug do sensor de nível 98884880 PLUG DA BÓIA SR 70/100",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tampão 186648427 TAMPÃO DE BORRACHA 3",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tampão 90568401 TAMPÃO DE BORRACHA LPR/SR 79MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tampão 94074701 PLUG BORRACHA 17mm/51mm C/ NIPLE INOX",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tampão 94074701 PLUG BORRACHA 17mm/51mm C/ NIPLE INOX",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tampão 96666302 TAMPÃO DE BORRACHA 51MM",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Substituir tampão 96666302 TAMPÃO DE BORRACHA 51MM",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tampão 96666302 TAMPÃO DE BORRACHA 51MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Substituir tubo 830283104 DRAIN TUBE",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tubo 90840504 DeLaval milk tube RUBBER 16/28-700 BgVV",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tubo 90840504 DeLaval milk tube RUBBER 16/28-700 BgVV",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir tubo 90840504 DeLaval milk tube RUBBER 16/28-700 BgVV",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 2761500 VÁLVULA DE DRENO",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 2761500 VÁLVULA DE DRENO",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 7418032 Válvula Duckbill PR3100",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 96706301 VAC TANK MOULDED VALVE DRAIN",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 98854680 PLUG DE DRENO P/ DYNAFLUSH",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 98854680 PLUG DE DRENO P/ DYNAFLUSH",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 98854680 PLUG DE DRENO P/ DYNAFLUSH",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Substituir válvula de dreno 99540401 VEDAÇÃO PARA VÁLVULA DE DRENAGEM AERADOR",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 186647114 ANEL O RING 2327",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 186647114 ANEL O RING 2327",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340188 O-ring 17,1 x 2,6 2 pcs",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340633 ANEL DE VEDAÇÃO VÁLVULA LAVADORES",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340633 ANEL DE VEDAÇÃO VÁLVULA LAVADORES",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 22340633 ANEL DE VEDAÇÃO VÁLVULA LAVADORES",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 5358021008 MILK FILTER MF80 INT CASING O RING 87x3",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 5358021009 MILK FILTER MF80/85 OUT CASING O RING",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 5358021010 O-RING KIT MILK FILTER MF80 DRAIN TAP",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Substituir vedação 96542580 Diafragma válv. corte acrílica (unidade)",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Substituir vedação 98498701 GAXETA DE BORRACHA P/ FILTRO 63,5MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 98498701 GAXETA DE BORRACHA P/ FILTRO 63,5MM",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 98498701 GAXETA DE BORRACHA P/ FILTRO 63,5MM",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Substituir vedação 99549801 DIAFRAGMA VÁLVULA LAVADORES",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 99549801 DIAFRAGMA VÁLVULA LAVADORES",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 99549801 DIAFRAGMA VÁLVULA LAVADORES",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Substituir vedação 99941302 VEDAÇÃO HARMONY DYNAFLUSH",
+   "Formulario": "Prev Sala Ordenha 680 II - Coletor"
+ },
+ {
+   "Pergunta": "Substituir vedações 99940581 KIT DE VEDAÇÕES DA ARTICULAÇÃO DYNAFLUSH",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Substituir vedações 99941401 SELO DE DISTRIBUIDOR P/ DYNAFLUSH",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Substituir vedações da válvula de 3 vias usando kit 90625680 Kit serviço 4000hr p/ válv. 3 vias C200",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "SWIVEL",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "Swivel Teste",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "Tamanho",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "TAMPÃO",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "TAMPÃO",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "TAMPÃO UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "TAMPÃO UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "TAMPÃO UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "TANQUE",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Tanque cheio?",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Tanque de Leite - Quantidade",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Tanque de Leite - Tamanho",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "TANQUE SANITÁRIO",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "TANQUES DE TRATAMENTO E RESFRIAMENTO DE LEITE",
+   "Formulario": "Intenção ou Prospecção"
+ },
+ {
+   "Pergunta": "Telefone",
+   "Formulario": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Pergunta": "Temperatura",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Temperatura da Água",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "TEMPERATURA DA ÁGUA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Temperatura Medida",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Tempo de ação",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "TEMPO DE COLOCAÇÃO DE CONJUNTO",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Tempo de Colocação do conjunto",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Tempo de Extração",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Tempo de injeção de ar",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Tempo de Resfriamento",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "teste",
+   "Formulario": "Teste"
+ },
+ {
+   "Pergunta": "Teste",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Teste",
+   "Formulario": "Teste"
+ },
+ {
+   "Pergunta": "Teste do joystick",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Teste do joystick",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a caixa de energia VMS",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a caixa de energia VMS",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a tela VMS",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Teste do mecanismo de emergência próximo a tela VMS",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Teteira de Limpeza",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Teteiras",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "TETEIRAS",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Teto Inteiro",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Tipo",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Tipo Combustível",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Tipo de Garantia",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Tipo de Preventiva",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Tipo de Serviço",
+   "Formulario": "Preventivas"
+ },
+ {
+   "Pergunta": "Tipo de Treinamento",
+   "Formulario": "Treinamento"
+ },
+ {
+   "Pergunta": "TIPO TANQUE",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Total",
+   "Formulario": "Pedido de Venda"
+ },
+ {
+   "Pergunta": "TRAFEGO DE VACAS",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "TRÁFEGO DE VACAS",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "TRÁFEGO DE VACAS",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "TRANSPORTE DE LEITE",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "TRANSPORTE DE LEITE",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Triangulo",
+   "Formulario": "Teste"
+ },
+ {
+   "Pergunta": "Triângulo",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Troca do diafragma da válvula dentro do tanque de limpeza dos tetos",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Troca do diafragma da válvula dentro do tanque de limpeza dos tetos",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Troca do filtro do spray do pós dipping",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Troca do filtro do spray do pós dipping",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Troca e limpeza das partes dos pulsadores",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Troca e limpeza das partes dos pulsadores",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Trocar óleo da corrente que move o portão de aproximação (SAE10 óleo automotivo)",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Trocar teteiras",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "TROMBONE",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "TROMBONE",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "TROMBONE",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Tubulação",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "TUBULAÇÃO",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "TURBULÊNCIA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Uma por teto",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Unidade de Limpeza:",
+   "Formulario": "Tanque"
+ },
+ {
+   "Pergunta": "UNIDADE DE LIMPEZA",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "UNIDADE DE LIMPEZA",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "UNIDADE DE LIMPEZA",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Número de unidades de ordenha (coletor):",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "Unidade Final",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Unidade Final",
+   "Formulario": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Pergunta": "Unidade Final",
+   "Formulario": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Prev Sala Ordenha 680 II"
+ },
+ {
+   "Pergunta": "UNIDADE FINAL",
+   "Formulario": "Preventiva Rotatória"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE LEITE",
+   "Formulario": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TANSPORTE",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Leite"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "UNIÕES LINHA DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Número de vacas em lactação:",
+   "Formulario": "Garantia DeLaval"
+ },
+ {
+   "Pergunta": "VAGÃO MISTURADOR",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Valor da troca:",
+   "Formulario": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Pergunta": "Valor/Litro",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "Valor por Litro do Leite",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "DETERGENTES"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "BEZERRAS"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "CHAMPION"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "DIPPINGS"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "SILAGEM"
+ },
+ {
+   "Pergunta": "Valor Total",
+   "Formulario": "PENERGETIC"
+ },
+ {
+   "Pergunta": "Valor Total Abastecimento",
+   "Formulario": "Registro de Abastecimento"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "VÁLVULA CORTE DE VÁCUO",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM AUTOMÁTICA",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM AUTOMÁTICA",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM AUTOMÁTICA",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "VÁLVULA DRENAGEM DE TRANSPORTE",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "VEÍCULO ABERTO E LIGADO - TRASEIRA",
+   "Formulario": "ChekList Veículos"
+ },
+ {
+   "Pergunta": "Venda",
+   "Formulario": "Negociação"
+ },
+ {
+   "Pergunta": "Venda Efetivada?",
+   "Formulario": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Pergunta": "Verfique se não existe vazamento",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verfique se não existe vazamento",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verificação da operação adequada do sistema durante ordenha.",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Verificação da operação adequada do sistema durante ordenha.",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Verificação do ponto de regulagem da válvula de controle de fluxo de ar (FRV)",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Verificação do ponto de regulagem da válvula de controle de fluxo de ar (FRV)",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Verificação dos níveis de vácuo em cada teteira",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "Verificação dos níveis de vácuo em cada teteira",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Verificação do Spray Ball",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Verificação dos pulsos de água e ar e temperatura da água",
+   "Formulario": "VMS"
+ },
+ {
+   "Pergunta": "Verificação dos pulsos de água e ar e temperatura da água",
+   "Formulario": "VMS - Cópia"
+ },
+ {
+   "Pergunta": "VERIFICAÇÃO DO VOLUME DE ÁGUA",
+   "Formulario": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Pergunta": "Verificado Não Conformidade?",
+   "Formulario": "Visita de Rotina"
+ },
+ {
+   "Pergunta": "Verificar a função dos transdutores de pressão",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Verificar alinhamento da linha de leite e suportes",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar alinhamento da linha de leite e suportes",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar alinhamento da linha de leite e suportes",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar a operação de cada cilindro",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar a operação de cada cilindro",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Verificar a operação de cada cilindro",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verificar bateria de back-up",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar bateria de back-up",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar bateria de back-up",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar capacidade da dosadora",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Verificar comunicação com sala de ordenha/alimentação/medidor de atividade",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar comunicação com sala de ordenha/alimentação/medidor de atividade",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar comunicação com sala de ordenha/alimentação/medidor de atividade",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar condição dos LEDs indicadores nos pontos de ordenha",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Verificar condição dos LEDs indicadores nos pontos de ordenha",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Verificar condição dos LEDs indicadores nos pontos de ordenha",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Verificar e apertar parafusos",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verificar e apertar parafusos",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verificar e testar funcionamento do teclado",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Verificar e testar funcionamento do teclado",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Verificar e testar funcionamento do teclado",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Verificar funcionamento",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar funcionamento",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Verificar funcionamento",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar funcionamento da tecla e teclado",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar funcionamento da tecla e teclado",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar funcionamento da tecla e teclado",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar funcionamentodo da válvula reguladora de vácuo",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Verificar funcionamento do interruptor do portão",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar funcionamento do interruptor do portão",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verificar funcionamento do interruptor do portão",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Verificar junções de solda",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verificar junções de solda",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Verificar junções de solda",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "Formulario": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "Formulario": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "Formulario": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Verificar limpeza",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Pergunta": "Verificar limpeza interior",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar limpeza interior",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verificar operação",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verificar operação de alarmes",
+   "Formulario": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar operação de alarmes",
+   "Formulario": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar operação de alarmes",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "Formulario": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "Formulario": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar operação do controlador",
+   "Formulario": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Pergunta": "Verificar operação do sistema",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verificar operação do sistema",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Verificar parafusos da contenção",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "Verificar se o alcance da fotocélula está correto",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verificar se o alcance da fotocélula está correto",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Verificar se o alcance da fotocélula está correto",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "Formulario": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "Formulario": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Verificar software e configuração",
+   "Formulario": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Pergunta": "Verificar temperatura do mostrador",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Verificar tensão da corrente (ajustar se necessário)",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verificar vazamento de leite na base do swivel e conexões",
+   "Formulario": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Pergunta": "Verificar visualmente o equipamento",
+   "Formulario": "Troca de Teteiras"
+ },
+ {
+   "Pergunta": "Verifique a condição dos tubos curto do coletor, substitua se necessário",
+   "Formulario": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Pergunta": "Verifique a condição dos tubos curto do coletor, substitua se necessário",
+   "Formulario": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Pergunta": "Verifique a condição e tensão da corrente de tração e de direcionamento",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verifique a condição e tensão da corrente de tração e de direcionamento",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Verifique a operação de cada cilindro e se os mesmos se movem juntos.",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique a operação dos portões de saída",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique a pressão do vácuo / pneumático nas linhas de suprimento",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique a válvula de corte, substituir se necessário",
+   "Formulario": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Pergunta": "Verifique a vedação da baioneta",
+   "Formulario": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Pergunta": "Verifique a vedação, substitua se necessário",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique a vedação, substitua se necessário",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique capacidade e velocidade da bomba",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique danos ou vazamentos nas linhas de  vac / pneum (incluído válvulas)",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique higiene e vazamentos",
+   "Formulario": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Pergunta": "Verifique higiene e vazamentos",
+   "Formulario": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Pergunta": "Verifique o funcionamento da válvula anti-retorno",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique o funcionamento da válvula anti-retorno",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo do lubrificador e ajuste se necessário",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo do lubrificador e ajuste se necessário",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo e funcionamento da lubrificação (para motor de ar)",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo e funcionamento da lubrificação (para motor de ar)",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo no motor redutor",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Verifique o nível de óleo no motor redutor",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verifique o para peito, guias de plástico e fios da saída da frente",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique os copos em U nas válvulas de 2-3 vias",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Verifique os rolamentos",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Verifique os tubos da bomba dosadora possuem desgaste",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Verifique os tubos de vácuo/pressostato, substitua se necessário",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique os tubos de vácuo/pressostato, substitua se necessário",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique os tubos vácuo/transdutor, substitua se necessário",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Verifique preparação de ar e vazamento em válvulas",
+   "Formulario": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Pergunta": "Verifique preparação de ar e vazamento em válvulas",
+   "Formulario": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Pergunta": "Verifique se a pressão do escapamento está dentro dos limites",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se a pressão do escapamento está dentro dos limites",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se as polias estão alinhadas",
+   "Formulario": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "Formulario": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Pergunta": "Verifique se existem danos nos cilindros",
+   "Formulario": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Pergunta": "Verifique se existe vazamento na tubulação de vácuo. Substitua peças se necessário.",
+   "Formulario": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Pergunta": "Verifique se existe vazamento na tubulação de vácuo. Substitua peças se necessário.",
+   "Formulario": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Pergunta": "Verifique se há vazamento de óleo da unidade motora, substitua a vedação se necessário",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se há vazamento de óleo da unidade motora, susbtitua a vedação se necessário",
+   "Formulario": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se há vazamento de óleo da unidade motora, susbtitua a vedação se necessário",
+   "Formulario": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Pergunta": "Verifique se o pressostato está bem conectado",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique se o pressostato está bem conectado",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique se os botões / controles do interruptor funcionam corretamente",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique se todas as conexões elétricas estão seguras",
+   "Formulario": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique se todas as conexões elétricas estão seguras",
+   "Formulario": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Pergunta": "Verifique se todas as conexões elétricas estão seguras",
+   "Formulario": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Pergunta": "Verifique todas as juntas de solda",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique todas as juntas e parafuso e aperte, se necessário",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "Verifique todos os interruptores e relés e limpe se necessário",
+   "Formulario": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Pergunta": "VMS",
+   "Formulario": "Montagem"
+ },
+ {
+   "Pergunta": "Volume de Água",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "Volume de Água",
+   "Formulario": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Pergunta": "VPR",
+   "Formulario": "Venda de Inservice All Inclusive"
+ }
+]

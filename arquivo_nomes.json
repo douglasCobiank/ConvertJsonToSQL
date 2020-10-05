@@ -1,0 +1,344 @@
+[
+ {
+   "Nome": "Assinatura"
+ },
+ {
+   "Nome": "Assinatura - Cópia"
+ },
+ {
+   "Nome": "Atividades Gerenciais"
+ },
+ {
+   "Nome": "Avaliar Conformidade"
+ },
+ {
+   "Nome": "BEZERRAS"
+ },
+ {
+   "Nome": "BEZERRAS (Geral)"
+ },
+ {
+   "Nome": "Cadastro de Pedidos"
+ },
+ {
+   "Nome": "Carregamento de Produtos"
+ },
+ {
+   "Nome": "CHAMPION"
+ },
+ {
+   "Nome": "CHAMPION (Geral)"
+ },
+ {
+   "Nome": "ChekList Veículos"
+ },
+ {
+   "Nome": "Contagem de Estoque"
+ },
+ {
+   "Nome": "Corretiva"
+ },
+ {
+   "Nome": "DETERGENTES"
+ },
+ {
+   "Nome": "DETERGENTES (Geral)"
+ },
+ {
+   "Nome": "Devolução de Produtos"
+ },
+ {
+   "Nome": "DIPPINGS"
+ },
+ {
+   "Nome": "DIPPINGS (Geral)"
+ },
+ {
+   "Nome": "Elaboração Apresentação"
+ },
+ {
+   "Nome": "Elaboração de Laudo Técnico"
+ },
+ {
+   "Nome": "Entrega Produtos"
+ },
+ {
+   "Nome": "Entrega Programada de Produtos (Antigo)"
+ },
+ {
+   "Nome": "Ficha Cadastral de Cliente"
+ },
+ {
+   "Nome": "FLAMBAGEM DE ANIMAIS"
+ },
+ {
+   "Nome": "Foto"
+ },
+ {
+   "Nome": "Garantia DeLaval"
+ },
+ {
+   "Nome": "Intenção ou Prospecção"
+ },
+ {
+   "Nome": "Item Checklist"
+ },
+ {
+   "Nome": "Montagem"
+ },
+ {
+   "Nome": "Negociação"
+ },
+ {
+   "Nome": "Nutrição"
+ },
+ {
+   "Nome": "observações"
+ },
+ {
+   "Nome": "Outras Atividades"
+ },
+ {
+   "Nome": "PEÇAS E TETEIRAS"
+ },
+ {
+   "Nome": "PEÇAS E TETEIRAS (Geral)"
+ },
+ {
+   "Nome": "Pedido de Venda"
+ },
+ {
+   "Nome": "PENERGETIC"
+ },
+ {
+   "Nome": "PENERGETIC (Geral)"
+ },
+ {
+   "Nome": "Preventiva"
+ },
+ {
+   "Nome": "Preventiva Rotatória"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Linha Leite"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Linha Transferência"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Ponto Ordenha"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Sistema Limpeza"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Sistema Vácuo"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Software Gerenciamento"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Tráfego Vacas"
+ },
+ {
+   "Nome": "Prev Sala Ordenha 680 II - Unidade Final"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Automação"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Coletor"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Linha de Leite"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Linha Transferência"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Sistema Limpeza"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Sistema Vácuo"
+ },
+ {
+   "Nome": "Prev Sala Ordenha Convencional - Unidade Final"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Automação"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Coletor"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Linha Leite"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Linha Transferência"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Sistema de Vácuo"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Sistema Limpeza"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP110 - Unidade Final"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Automação"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Coletor"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Contenção"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Linha Leite"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Linha Transferência"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Sistema de Vácuo"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Software Gerenciamento"
+ },
+ {
+   "Nome": "Prev Sala Ordenha MP610 - Unidade Final"
+ },
+ {
+   "Nome": "Preventiva"
+ },
+ {
+   "Nome": "Preventiva Rotatória"
+ },
+ {
+   "Nome": "Preventiva Rotatória Coletor"
+ },
+ {
+   "Nome": "Preventiva Rotatória Linha de Leite"
+ },
+ {
+   "Nome": "Preventiva Rotatória Linha Transferência"
+ },
+ {
+   "Nome": "Preventiva Rotatória Ponto de Ordenha"
+ },
+ {
+   "Nome": "Preventiva Rotatória Portão de Aproximação"
+ },
+ {
+   "Nome": "Preventiva Rotatória Portão de Separação"
+ },
+ {
+   "Nome": "Preventiva Rotatória Sistema de Limpeza"
+ },
+ {
+   "Nome": "Preventiva Rotatória Sistema de Vácuo"
+ },
+ {
+   "Nome": "Preventiva Rotatória Software Gerenciamento"
+ },
+ {
+   "Nome": "Preventiva Rotatória Swivel"
+ },
+ {
+   "Nome": "Preventiva Rotatória Unidade Final"
+ },
+ {
+   "Nome": "Preventivas"
+ },
+ {
+   "Nome": "Programa de Qualidade do Leite - CORRETIVA"
+ },
+ {
+   "Nome": "Programa de Qualidade do Leite - PREVENTIVA"
+ },
+ {
+   "Nome": "Qualidade de Leite"
+ },
+ {
+   "Nome": "Recursos Utilizados"
+ },
+ {
+   "Nome": "Registro de Abastecimento"
+ },
+ {
+   "Nome": "Registro de Troca de Óleo e Filtro"
+ },
+ {
+   "Nome": "Registro de Visita"
+ },
+ {
+   "Nome": "Reunião"
+ },
+ {
+   "Nome": "Rotatória/Ordenha com automação/sem automação"
+ },
+ {
+   "Nome": "SELEÇÃO DA EQUIPE"
+ },
+ {
+   "Nome": "SILAGEM"
+ },
+ {
+   "Nome": "SILAGEM (Geral)"
+ },
+ {
+   "Nome": "Solicitação Produtos Para Almoxarifado"
+ },
+ {
+   "Nome": "Tanque"
+ },
+ {
+   "Nome": "Teste"
+ },
+ {
+   "Nome": "TESTE"
+ },
+ {
+   "Nome": "Teste123"
+ },
+ {
+   "Nome": "Treinamento"
+ },
+ {
+   "Nome": "Troca de Teteiras"
+ },
+ {
+   "Nome": "Tubos e Teteiras"
+ },
+ {
+   "Nome": "Venda de Bens de Capital"
+ },
+ {
+   "Nome": "Venda de Inservice All Inclusive"
+ },
+ {
+   "Nome": "Visita a Campo Penergetic"
+ },
+ {
+   "Nome": "Visita de Rotina"
+ },
+ {
+   "Nome": "VMS"
+ },
+ {
+   "Nome": "VMS"
+ },
+ {
+   "Nome": "VMS - Cópia"
+ }
+]

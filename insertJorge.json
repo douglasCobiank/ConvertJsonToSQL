@@ -1,0 +1,290 @@
+[
+ {
+   "Id": 1000,
+   "Descricao": "EMISSOR"
+ },
+ {
+   "Id": 1001,
+   "Descricao": "PARCEIRO"
+ },
+ {
+   "Id": 1002,
+   "Descricao": "CLIENTECONTA"
+ },
+ {
+   "Id": 1003,
+   "Descricao": "CARTAO"
+ },
+ {
+   "Id": 1004,
+   "Descricao": "CLIENTECONTA-BANCO"
+ },
+ {
+   "Id": 1005,
+   "Descricao": "CLIENTECONTA-PROCESSADORA"
+ },
+ {
+   "Id": 1006,
+   "Descricao": "ASSINATURA_TERMO"
+ },
+ {
+   "Id": 2001,
+   "Descricao": "SALDO"
+ },
+ {
+   "Id": 2002,
+   "Descricao": "EXTRATO"
+ },
+ {
+   "Id": 2003,
+   "Descricao": "STATUS CARTAO"
+ },
+ {
+   "Id": 2004,
+   "Descricao": "SENHA"
+ },
+ {
+   "Id": 3000,
+   "Descricao": "RECARGA PELO PARCEIRO"
+ },
+ {
+   "Id": 3001,
+   "Descricao": "RECARGA VIA BOLETO"
+ },
+ {
+   "Id": 3002,
+   "Descricao": "ESTORNO TARIFA EMISSAO"
+ },
+ {
+   "Id": 3003,
+   "Descricao": "ESTORNO TARIFA RECARGA"
+ },
+ {
+   "Id": 3004,
+   "Descricao": "ESTORNO TARIFA TED"
+ },
+ {
+   "Id": 3005,
+   "Descricao": "ESTORNO TARIFA 2. VIA"
+ },
+ {
+   "Id": 3006,
+   "Descricao": "ESTORNO TARIFA CONTEST. CHARGEBACK"
+ },
+ {
+   "Id": 3007,
+   "Descricao": "ESTORNO TARIFA TRANSF. ENTRE CARTOES"
+ },
+ {
+   "Id": 3008,
+   "Descricao": "ESTORNO TARIFA SAQUE"
+ },
+ {
+   "Id": 3009,
+   "Descricao": "ESTORNO PAGTO DE CONTAS"
+ },
+ {
+   "Id": 3010,
+   "Descricao": "ESTORNO RECARGA CELULAR"
+ },
+ {
+   "Id": 3011,
+   "Descricao": "ESTORNO RECARGA SERVICOS"
+ },
+ {
+   "Id": 3012,
+   "Descricao": "ESTORNO ENVIO DE TED"
+ },
+ {
+   "Id": 3013,
+   "Descricao": "ESTORNO ENVIO TRANSF. ENTRE CARTOES"
+ },
+ {
+   "Id": 3014,
+   "Descricao": "ESTORNO SAQUE"
+ },
+ {
+   "Id": 3015,
+   "Descricao": "RECEBIMENTO DE TED"
+ },
+ {
+   "Id": 3016,
+   "Descricao": "ESTORNO TARIFA PAGAMENTO DE CONTAS"
+ },
+ {
+   "Id": 3017,
+   "Descricao": "ESTORNO TARIFA RECARGA DE CELULAR"
+ },
+ {
+   "Id": 3018,
+   "Descricao": "ESTORNO TARIFA RECARGA DE SERVICOS"
+ },
+ {
+   "Id": 3019,
+   "Descricao": "RECEBE TRANSFERENCIA ENTRE CARTOES"
+ },
+ {
+   "Id": 3020,
+   "Descricao": "ESTORNO TARIFA ENVIO CARTAO FISICO"
+ },
+ {
+   "Id": 3021,
+   "Descricao": "ESTORNO TARIFA ENVIO TRANSFERENCIA ENTRE CONTAS"
+ },
+ {
+   "Id": 3022,
+   "Descricao": "ESTORNO COMPRA CARTAO"
+ },
+ {
+   "Id": 4000,
+   "Descricao": "ESTORNO RECARGA PELO PARCEIRO"
+ },
+ {
+   "Id": 4001,
+   "Descricao": "ESTORNO RECARGA VIA BOLETO"
+ },
+ {
+   "Id": 4002,
+   "Descricao": "TARIFA EMISSAO"
+ },
+ {
+   "Id": 4003,
+   "Descricao": "TARIFA RECARGA"
+ },
+ {
+   "Id": 4004,
+   "Descricao": "TARIFA DE TED"
+ },
+ {
+   "Id": 4005,
+   "Descricao": "TARIFA 2. VIA"
+ },
+ {
+   "Id": 4006,
+   "Descricao": "TARIFA CONTESTACAO CHARGEBACK"
+ },
+ {
+   "Id": 4007,
+   "Descricao": "TARIFA TRANSF. ENTRE CARTOES"
+ },
+ {
+   "Id": 4008,
+   "Descricao": "TARIFA SAQUE"
+ },
+ {
+   "Id": 4009,
+   "Descricao": "PAGAMENTO DE CONTAS"
+ },
+ {
+   "Id": 4010,
+   "Descricao": "RECARGA DE CELULAR"
+ },
+ {
+   "Id": 4011,
+   "Descricao": "RECARGA SERVICOS"
+ },
+ {
+   "Id": 4012,
+   "Descricao": "ESTORNO RECEBIMENTO DE TED"
+ },
+ {
+   "Id": 4013,
+   "Descricao": "ESTORNO RECEBIMENTO TRANSF. ENTRE CARTOES"
+ },
+ {
+   "Id": 4014,
+   "Descricao": "SAQUE"
+ },
+ {
+   "Id": 4015,
+   "Descricao": "ENVIO DE TED"
+ },
+ {
+   "Id": 4016,
+   "Descricao": "TARIFA PAGAMENTO DE CONTAS"
+ },
+ {
+   "Id": 4017,
+   "Descricao": "TARIFA RECARGA DE CELULAR"
+ },
+ {
+   "Id": 4018,
+   "Descricao": "TARIFA RECARGA DE SERVICOS"
+ },
+ {
+   "Id": 4019,
+   "Descricao": "ENVIO TRANSFERENCIA ENTRE CARTOES"
+ },
+ {
+   "Id": 4020,
+   "Descricao": "TARIFA ENVIO CARTAO FISICO"
+ },
+ {
+   "Id": 4021,
+   "Descricao": "ESTORNO RECEBE TRANSFERENCIA ENTRE CARTOES"
+ },
+ {
+   "Id": 4022,
+   "Descricao": "TARIFA ENVIO TRANSFERENCIA ENTRE CONTAS"
+ },
+ {
+   "Id": 4023,
+   "Descricao": "ESTORNO_TARIFA_TRANSFERENCIA_ENTRE_CONTAS"
+ },
+ {
+   "Id": 5000,
+   "Descricao": "BLOQ. FRAUDE"
+ },
+ {
+   "Id": 5001,
+   "Descricao": "BLOQ. EXCEDEU N. TENTATIVAS DE ACESSO"
+ },
+ {
+   "Id": 5002,
+   "Descricao": "BLOQ. ROUBO"
+ },
+ {
+   "Id": 5003,
+   "Descricao": "BLOQ. PERDA"
+ },
+ {
+   "Id": 5004,
+   "Descricao": "BLOQ. SOLICITACAO JUDICIAL"
+ },
+ {
+   "Id": 5005,
+   "Descricao": "BLOQ. EMISSAO"
+ },
+ {
+   "Id": 6000,
+   "Descricao": "DESBLOQ. CONTESTACAO FRAUDE"
+ },
+ {
+   "Id": 6001,
+   "Descricao": "DESBLOQ. POS TENTATIVAS ERRADAS"
+ },
+ {
+   "Id": 6002,
+   "Descricao": "DESBLOQ. ROUBO"
+ },
+ {
+   "Id": 6003,
+   "Descricao": "DESBLOQ. PERDA"
+ },
+ {
+   "Id": 6004,
+   "Descricao": "DESBLOQ. SOLICITACAO JUDICIAL"
+ },
+ {
+   "Id": 6005,
+   "Descricao": "DESBLOQ. EMISSAO"
+ },
+ {
+   "Id": 7000,
+   "Descricao": "ANTECIPACAO"
+ },
+ {
+   "Id": 7001,
+   "Descricao": "RENEGOCIACAO"
+ }
+]
